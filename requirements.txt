@@ -1,0 +1,9 @@
+fastapi==0.115.8
+uvicorn==0.30.6
+neo4j==5.25.0
+boto3==1.34.157
+python-dotenv==1.0.1
+jinja2==3.1.4
+httpx==0.27.2
+ag-ui-protocol>=0.1.0
+pytest==8.3.3

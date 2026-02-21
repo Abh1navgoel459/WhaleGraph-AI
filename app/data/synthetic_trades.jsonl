@@ -1,0 +1,116 @@
+{"id": "T1", "wallet": "RET_05", "amount": 24, "side": "sell", "ts": "2026-02-20T20:33:02.095640+00:00", "scenario": "retail_noise"}
+{"id": "T2", "wallet": "RET_10", "amount": 11, "side": "buy", "ts": "2026-02-20T20:33:02.095731+00:00", "scenario": "retail_noise"}
+{"id": "T3", "wallet": "RET_13", "amount": 73, "side": "buy", "ts": "2026-02-20T20:33:02.095737+00:00", "scenario": "retail_noise"}
+{"id": "T4", "wallet": "RET_05", "amount": 79, "side": "buy", "ts": "2026-02-20T20:33:02.095740+00:00", "scenario": "retail_noise"}
+{"id": "T5", "wallet": "RET_14", "amount": 69, "side": "buy", "ts": "2026-02-20T20:33:02.095744+00:00", "scenario": "retail_noise"}
+{"id": "T6", "wallet": "RET_00", "amount": 16, "side": "sell", "ts": "2026-02-20T20:33:02.095747+00:00", "scenario": "retail_noise"}
+{"id": "T7", "wallet": "RET_06", "amount": 13, "side": "buy", "ts": "2026-02-20T20:33:02.095750+00:00", "scenario": "retail_noise"}
+{"id": "T8", "wallet": "RET_01", "amount": 75, "side": "sell", "ts": "2026-02-20T20:33:02.095753+00:00", "scenario": "retail_noise"}
+{"id": "T9", "wallet": "RET_00", "amount": 77, "side": "buy", "ts": "2026-02-20T20:33:02.095756+00:00", "scenario": "retail_noise"}
+{"id": "T10", "wallet": "RET_03", "amount": 79, "side": "buy", "ts": "2026-02-20T20:33:02.095759+00:00", "scenario": "retail_noise"}
+{"id": "T11", "wallet": "RET_09", "amount": 79, "side": "sell", "ts": "2026-02-20T20:33:02.095762+00:00", "scenario": "retail_noise"}
+{"id": "T12", "wallet": "RET_00", "amount": 33, "side": "buy", "ts": "2026-02-20T20:33:02.095765+00:00", "scenario": "retail_noise"}
+{"id": "T13", "wallet": "RET_08", "amount": 22, "side": "sell", "ts": "2026-02-20T20:33:02.095768+00:00", "scenario": "retail_noise"}
+{"id": "T14", "wallet": "RET_06", "amount": 23, "side": "buy", "ts": "2026-02-20T20:33:02.095771+00:00", "scenario": "retail_noise"}
+{"id": "T15", "wallet": "RET_09", "amount": 44, "side": "buy", "ts": "2026-02-20T20:33:02.095774+00:00", "scenario": "retail_noise"}
+{"id": "T16", "wallet": "RET_01", "amount": 79, "side": "buy", "ts": "2026-02-20T20:33:02.095777+00:00", "scenario": "retail_noise"}
+{"id": "T17", "wallet": "RET_05", "amount": 17, "side": "buy", "ts": "2026-02-20T20:33:02.095780+00:00", "scenario": "retail_noise"}
+{"id": "T18", "wallet": "RET_09", "amount": 12, "side": "buy", "ts": "2026-02-20T20:33:02.095785+00:00", "scenario": "retail_noise"}
+{"id": "T19", "wallet": "RET_07", "amount": 73, "side": "sell", "ts": "2026-02-20T20:33:02.095788+00:00", "scenario": "retail_noise"}
+{"id": "T20", "wallet": "RET_12", "amount": 45, "side": "sell", "ts": "2026-02-20T20:33:02.095791+00:00", "scenario": "retail_noise"}
+{"id": "T21", "wallet": "RET_09", "amount": 63, "side": "sell", "ts": "2026-02-20T20:33:02.095794+00:00", "scenario": "retail_noise"}
+{"id": "T22", "wallet": "RET_04", "amount": 36, "side": "buy", "ts": "2026-02-20T20:33:02.095797+00:00", "scenario": "retail_noise"}
+{"id": "T23", "wallet": "RET_11", "amount": 36, "side": "buy", "ts": "2026-02-20T20:33:02.095800+00:00", "scenario": "retail_noise"}
+{"id": "T24", "wallet": "RET_09", "amount": 43, "side": "sell", "ts": "2026-02-20T20:33:02.095803+00:00", "scenario": "retail_noise"}
+{"id": "T25", "wallet": "RET_14", "amount": 48, "side": "sell", "ts": "2026-02-20T20:33:02.095806+00:00", "scenario": "retail_noise"}
+{"id": "T26", "wallet": "RET_04", "amount": 14, "side": "buy", "ts": "2026-02-20T20:33:02.095809+00:00", "scenario": "retail_noise"}
+{"id": "T27", "wallet": "RET_08", "amount": 58, "side": "buy", "ts": "2026-02-20T20:33:02.095812+00:00", "scenario": "retail_noise"}
+{"id": "T28", "wallet": "RET_12", "amount": 48, "side": "buy", "ts": "2026-02-20T20:33:02.095814+00:00", "scenario": "retail_noise"}
+{"id": "T29", "wallet": "RET_14", "amount": 67, "side": "sell", "ts": "2026-02-20T20:33:02.095817+00:00", "scenario": "retail_noise"}
+{"id": "T30", "wallet": "RET_00", "amount": 14, "side": "sell", "ts": "2026-02-20T20:33:02.095820+00:00", "scenario": "retail_noise"}
+{"id": "T31", "wallet": "RET_05", "amount": 49, "side": "sell", "ts": "2026-02-20T20:33:02.095824+00:00", "scenario": "retail_noise"}
+{"id": "T32", "wallet": "RET_09", "amount": 63, "side": "buy", "ts": "2026-02-20T20:33:02.095827+00:00", "scenario": "retail_noise"}
+{"id": "T33", "wallet": "RET_13", "amount": 16, "side": "sell", "ts": "2026-02-20T20:33:02.095829+00:00", "scenario": "retail_noise"}
+{"id": "T34", "wallet": "RET_07", "amount": 13, "side": "buy", "ts": "2026-02-20T20:33:02.095832+00:00", "scenario": "retail_noise"}
+{"id": "T35", "wallet": "RET_11", "amount": 44, "side": "sell", "ts": "2026-02-20T20:33:02.095836+00:00", "scenario": "retail_noise"}
+{"id": "T36", "wallet": "RET_04", "amount": 54, "side": "sell", "ts": "2026-02-20T20:33:02.095839+00:00", "scenario": "retail_noise"}
+{"id": "T37", "wallet": "RET_00", "amount": 64, "side": "sell", "ts": "2026-02-20T20:33:02.095842+00:00", "scenario": "retail_noise"}
+{"id": "T38", "wallet": "RET_02", "amount": 19, "side": "sell", "ts": "2026-02-20T20:33:02.095844+00:00", "scenario": "retail_noise"}
+{"id": "T39", "wallet": "RET_00", "amount": 32, "side": "sell", "ts": "2026-02-20T20:33:02.095847+00:00", "scenario": "retail_noise"}
+{"id": "T40", "wallet": "RET_02", "amount": 36, "side": "sell", "ts": "2026-02-20T20:33:02.095850+00:00", "scenario": "retail_noise"}
+{"id": "T41", "wallet": "RET_06", "amount": 73, "side": "buy", "ts": "2026-02-20T20:33:02.095854+00:00", "scenario": "pump_and_dump"}
+{"id": "T42", "wallet": "RET_02", "amount": 67, "side": "sell", "ts": "2026-02-20T20:33:02.095858+00:00", "scenario": "pump_and_dump"}
+{"id": "T43", "wallet": "RET_08", "amount": 45, "side": "buy", "ts": "2026-02-20T20:33:02.095861+00:00", "scenario": "pump_and_dump"}
+{"id": "T44", "wallet": "RET_13", "amount": 65, "side": "sell", "ts": "2026-02-20T20:33:02.095864+00:00", "scenario": "pump_and_dump"}
+{"id": "T45", "wallet": "RET_11", "amount": 63, "side": "sell", "ts": "2026-02-20T20:33:02.095867+00:00", "scenario": "pump_and_dump"}
+{"id": "T46", "wallet": "RET_10", "amount": 58, "side": "buy", "ts": "2026-02-20T20:33:02.095870+00:00", "scenario": "pump_and_dump"}
+{"id": "T47", "wallet": "RET_02", "amount": 20, "side": "buy", "ts": "2026-02-20T20:33:02.095872+00:00", "scenario": "pump_and_dump"}
+{"id": "T48", "wallet": "RET_02", "amount": 39, "side": "buy", "ts": "2026-02-20T20:33:02.095875+00:00", "scenario": "pump_and_dump"}
+{"id": "T49", "wallet": "RET_00", "amount": 72, "side": "buy", "ts": "2026-02-20T20:33:02.095878+00:00", "scenario": "pump_and_dump"}
+{"id": "T50", "wallet": "RET_04", "amount": 46, "side": "buy", "ts": "2026-02-20T20:33:02.095881+00:00", "scenario": "pump_and_dump"}
+{"id": "T51", "wallet": "RET_02", "amount": 63, "side": "sell", "ts": "2026-02-20T20:33:02.095884+00:00", "scenario": "pump_and_dump"}
+{"id": "T52", "wallet": "RET_09", "amount": 82, "side": "sell", "ts": "2026-02-20T20:33:02.095887+00:00", "scenario": "pump_and_dump"}
+{"id": "T53", "wallet": "RET_02", "amount": 98, "side": "buy", "ts": "2026-02-20T20:33:02.095890+00:00", "scenario": "pump_and_dump"}
+{"id": "T54", "wallet": "RET_07", "amount": 109, "side": "sell", "ts": "2026-02-20T20:33:02.095893+00:00", "scenario": "pump_and_dump"}
+{"id": "T55", "wallet": "RET_06", "amount": 61, "side": "sell", "ts": "2026-02-20T20:33:02.095896+00:00", "scenario": "pump_and_dump"}
+{"id": "T56", "wallet": "RET_01", "amount": 71, "side": "sell", "ts": "2026-02-20T20:33:02.095899+00:00", "scenario": "pump_and_dump"}
+{"id": "T57", "wallet": "RET_00", "amount": 34, "side": "buy", "ts": "2026-02-20T20:33:02.095902+00:00", "scenario": "pump_and_dump"}
+{"id": "T58", "wallet": "RET_03", "amount": 66, "side": "buy", "ts": "2026-02-20T20:33:02.095904+00:00", "scenario": "pump_and_dump"}
+{"id": "T59", "wallet": "RET_01", "amount": 53, "side": "buy", "ts": "2026-02-20T20:33:02.095907+00:00", "scenario": "pump_and_dump"}
+{"id": "T60", "wallet": "RET_01", "amount": 10, "side": "buy", "ts": "2026-02-20T20:33:02.095910+00:00", "scenario": "pump_and_dump"}
+{"id": "T61", "wallet": "RET_08", "amount": 22, "side": "sell", "ts": "2026-02-20T20:33:02.095913+00:00", "scenario": "pump_and_dump"}
+{"id": "T62", "wallet": "RET_09", "amount": 13, "side": "buy", "ts": "2026-02-20T20:33:02.095916+00:00", "scenario": "pump_and_dump"}
+{"id": "T63", "wallet": "RET_13", "amount": 36, "side": "sell", "ts": "2026-02-20T20:33:02.095919+00:00", "scenario": "pump_and_dump"}
+{"id": "T64", "wallet": "RET_02", "amount": 91, "side": "sell", "ts": "2026-02-20T20:33:02.095922+00:00", "scenario": "pump_and_dump"}
+{"id": "T65", "wallet": "RET_05", "amount": 87, "side": "sell", "ts": "2026-02-20T20:33:02.095925+00:00", "scenario": "pump_and_dump"}
+{"id": "T66", "wallet": "RET_07", "amount": 25, "side": "buy", "ts": "2026-02-20T20:33:02.095928+00:00", "scenario": "pump_and_dump"}
+{"id": "T67", "wallet": "RET_13", "amount": 72, "side": "sell", "ts": "2026-02-20T20:33:02.095931+00:00", "scenario": "pump_and_dump"}
+{"id": "T68", "wallet": "RET_07", "amount": 71, "side": "sell", "ts": "2026-02-20T20:33:02.095934+00:00", "scenario": "pump_and_dump"}
+{"id": "T69", "wallet": "RET_01", "amount": 28, "side": "buy", "ts": "2026-02-20T20:33:02.095936+00:00", "scenario": "pump_and_dump"}
+{"id": "T70", "wallet": "RET_11", "amount": 53, "side": "sell", "ts": "2026-02-20T20:33:02.095939+00:00", "scenario": "pump_and_dump"}
+{"id": "T71", "wallet": "WHALE_1", "amount": 1290, "side": "buy", "ts": "2026-02-20T20:33:02.095944+00:00", "scenario": "pump_and_dump"}
+{"id": "T72", "wallet": "WHALE_1", "amount": 1508, "side": "buy", "ts": "2026-02-20T20:33:02.095948+00:00", "scenario": "pump_and_dump"}
+{"id": "T73", "wallet": "WHALE_1", "amount": 965, "side": "buy", "ts": "2026-02-20T20:33:02.095951+00:00", "scenario": "pump_and_dump"}
+{"id": "T74", "wallet": "WHALE_1", "amount": 1328, "side": "buy", "ts": "2026-02-20T20:33:02.095953+00:00", "scenario": "pump_and_dump"}
+{"id": "T75", "wallet": "WHALE_1", "amount": 823, "side": "buy", "ts": "2026-02-20T20:33:02.095955+00:00", "scenario": "pump_and_dump"}
+{"id": "T76", "wallet": "WHALE_1", "amount": 1010, "side": "buy", "ts": "2026-02-20T20:33:02.095958+00:00", "scenario": "pump_and_dump"}
+{"id": "T77", "wallet": "WHALE_2", "amount": 1340, "side": "buy", "ts": "2026-02-20T20:33:02.095961+00:00", "scenario": "pump_and_dump"}
+{"id": "T78", "wallet": "WHALE_2", "amount": 1170, "side": "buy", "ts": "2026-02-20T20:33:02.095964+00:00", "scenario": "pump_and_dump"}
+{"id": "T79", "wallet": "WHALE_2", "amount": 950, "side": "buy", "ts": "2026-02-20T20:33:02.095967+00:00", "scenario": "pump_and_dump"}
+{"id": "T80", "wallet": "WHALE_2", "amount": 1506, "side": "buy", "ts": "2026-02-20T20:33:02.095969+00:00", "scenario": "pump_and_dump"}
+{"id": "T81", "wallet": "WHALE_2", "amount": 1356, "side": "buy", "ts": "2026-02-20T20:33:02.095971+00:00", "scenario": "pump_and_dump"}
+{"id": "T82", "wallet": "WHALE_2", "amount": 827, "side": "buy", "ts": "2026-02-20T20:33:02.095974+00:00", "scenario": "pump_and_dump"}
+{"id": "T83", "wallet": "WHALE_3", "amount": 1576, "side": "buy", "ts": "2026-02-20T20:33:02.095976+00:00", "scenario": "pump_and_dump"}
+{"id": "T84", "wallet": "WHALE_3", "amount": 1340, "side": "buy", "ts": "2026-02-20T20:33:02.095979+00:00", "scenario": "pump_and_dump"}
+{"id": "T85", "wallet": "WHALE_3", "amount": 1105, "side": "buy", "ts": "2026-02-20T20:33:02.095981+00:00", "scenario": "pump_and_dump"}
+{"id": "T86", "wallet": "WHALE_3", "amount": 1458, "side": "buy", "ts": "2026-02-20T20:33:02.095983+00:00", "scenario": "pump_and_dump"}
+{"id": "T87", "wallet": "WHALE_3", "amount": 893, "side": "buy", "ts": "2026-02-20T20:33:02.095986+00:00", "scenario": "pump_and_dump"}
+{"id": "T88", "wallet": "WHALE_3", "amount": 1512, "side": "buy", "ts": "2026-02-20T20:33:02.095988+00:00", "scenario": "pump_and_dump"}
+{"id": "T89", "wallet": "COORD_02", "amount": 465, "side": "buy", "ts": "2026-02-20T20:33:02.095992+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "T90", "wallet": "COORD_02", "amount": 285, "side": "buy", "ts": "2026-02-20T20:33:02.095995+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "T91", "wallet": "COORD_02", "amount": 314, "side": "buy", "ts": "2026-02-20T20:33:02.095998+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "T92", "wallet": "COORD_04", "amount": 477, "side": "buy", "ts": "2026-02-20T20:33:02.096001+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "T93", "wallet": "COORD_04", "amount": 368, "side": "buy", "ts": "2026-02-20T20:33:02.096004+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "T94", "wallet": "COORD_01", "amount": 299, "side": "buy", "ts": "2026-02-20T20:33:02.096007+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "T95", "wallet": "COORD_01", "amount": 405, "side": "buy", "ts": "2026-02-20T20:33:02.096010+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "T96", "wallet": "COORD_01", "amount": 302, "side": "buy", "ts": "2026-02-20T20:33:02.096013+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "T97", "wallet": "COORD_04", "amount": 452, "side": "buy", "ts": "2026-02-20T20:33:02.096015+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "T98", "wallet": "COORD_02", "amount": 214, "side": "buy", "ts": "2026-02-20T20:33:02.096018+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "T99", "wallet": "COORD_00", "amount": 343, "side": "buy", "ts": "2026-02-20T20:33:02.096021+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "T100", "wallet": "COORD_03", "amount": 332, "side": "buy", "ts": "2026-02-20T20:33:02.096024+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "T101", "wallet": "COORD_01", "amount": 376, "side": "buy", "ts": "2026-02-20T20:33:02.096027+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "T102", "wallet": "COORD_03", "amount": 378, "side": "buy", "ts": "2026-02-20T20:33:02.096030+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "T103", "wallet": "COORD_02", "amount": 241, "side": "buy", "ts": "2026-02-20T20:33:02.096032+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "T104", "wallet": "COORD_01", "amount": 252, "side": "buy", "ts": "2026-02-20T20:33:02.096035+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "T105", "wallet": "COORD_01", "amount": 440, "side": "buy", "ts": "2026-02-20T20:33:02.096038+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "T106", "wallet": "COORD_01", "amount": 372, "side": "buy", "ts": "2026-02-20T20:33:02.096040+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "T107", "wallet": "COORD_01", "amount": 447, "side": "buy", "ts": "2026-02-20T20:33:02.096043+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "T108", "wallet": "COORD_04", "amount": 200, "side": "buy", "ts": "2026-02-20T20:33:02.096048+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "T109", "wallet": "WHALE_1", "amount": 890, "side": "sell", "ts": "2026-02-20T20:33:02.096051+00:00", "scenario": "pump_and_dump"}
+{"id": "T110", "wallet": "WHALE_2", "amount": 1068, "side": "sell", "ts": "2026-02-20T20:33:02.096054+00:00", "scenario": "pump_and_dump"}
+{"id": "T111", "wallet": "WHALE_3", "amount": 752, "side": "sell", "ts": "2026-02-20T20:33:02.096057+00:00", "scenario": "pump_and_dump"}
+{"id": "T112", "wallet": "COORD_00", "amount": 1058, "side": "sell", "ts": "2026-02-20T20:33:02.096059+00:00", "scenario": "pump_and_dump"}
+{"id": "T113", "wallet": "COORD_01", "amount": 486, "side": "sell", "ts": "2026-02-20T20:33:02.096064+00:00", "scenario": "pump_and_dump"}
+{"id": "T114", "wallet": "COORD_02", "amount": 1076, "side": "sell", "ts": "2026-02-20T20:33:02.096066+00:00", "scenario": "pump_and_dump"}
+{"id": "T115", "wallet": "COORD_03", "amount": 522, "side": "sell", "ts": "2026-02-20T20:33:02.096069+00:00", "scenario": "pump_and_dump"}
+{"id": "T116", "wallet": "COORD_04", "amount": 797, "side": "sell", "ts": "2026-02-20T20:33:02.096071+00:00", "scenario": "pump_and_dump"}

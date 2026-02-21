@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>WhaleGraph AI</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <div class="wrap">
+      <header>
+        <h1>WhaleGraph AI</h1>
+        <p>On-Chain Behavioral Risk Intelligence (non-trading)</p>
+      </header>
+
+      <section class="card">
+        <h2>Replay Scenario</h2>
+        <div class="row">
+          <label>Token</label>
+          <input id="token" value="SOL" />
+
+          <label>Scenario</label>
+          <select id="scenario">
+            <option value="pump_and_dump">pump_and_dump</option>
+            <option value="retail_noise">retail_noise</option>
+          </select>
+
+          <label>Batch Size</label>
+          <input id="batch" type="number" value="25" min="5" max="150" />
+
+          <button id="run">Replay</button>
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>Risk Output</h2>
+        <pre id="risk">Run a scenario to see output.</pre>
+      </section>
+
+      <section class="card">
+        <h2>Graph</h2>
+        {% if bloom_url %}
+          <a class="btn" href="{{ bloom_url }}" target="_blank">Open Neo4j Bloom</a>
+        {% else %}
+          <p>Set NEO4J_BLOOM_URL to link directly.</p>
+        {% endif %}
+      </section>
+
+      <section class="card">
+        <h2>Observability</h2>
+        <p>Metrics emitted: pump_probability, rugpull_risk, whale_concentration, coordinated_wallet_count, trade_velocity</p>
+      </section>
+    </div>
+    <script src="/static/app.js"></script>
+  </body>
+</html>

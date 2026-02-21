@@ -1,0 +1,700 @@
+{"id": "TTEST_1", "wallet": "WHALE_3", "amount": 1323, "side": "buy", "ts": "2026-02-20T23:31:08.070019+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_2", "wallet": "RET_078", "amount": 23, "side": "buy", "ts": "2026-02-20T23:31:08.070023+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_3", "wallet": "WHALE_1", "amount": 1436, "side": "buy", "ts": "2026-02-20T23:31:08.070026+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_4", "wallet": "WHALE_2", "amount": 1785, "side": "buy", "ts": "2026-02-20T23:31:08.070029+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_5", "wallet": "WHALE_2", "amount": 1406, "side": "buy", "ts": "2026-02-20T23:31:08.070032+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_6", "wallet": "RET_109", "amount": 113, "side": "sell", "ts": "2026-02-20T23:31:08.070035+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_7", "wallet": "WHALE_1", "amount": 936, "side": "buy", "ts": "2026-02-20T23:31:08.070038+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_8", "wallet": "RET_006", "amount": 102, "side": "sell", "ts": "2026-02-20T23:31:08.070041+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_9", "wallet": "WHALE_2", "amount": 1742, "side": "buy", "ts": "2026-02-20T23:31:08.070044+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_10", "wallet": "RET_109", "amount": 22, "side": "sell", "ts": "2026-02-20T23:31:08.070047+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_11", "wallet": "RET_061", "amount": 126, "side": "buy", "ts": "2026-02-20T23:31:08.070051+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_12", "wallet": "WHALE_4", "amount": 1153, "side": "buy", "ts": "2026-02-20T23:31:08.070054+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_13", "wallet": "RET_003", "amount": 118, "side": "sell", "ts": "2026-02-20T23:31:08.070057+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_14", "wallet": "RET_066", "amount": 61, "side": "sell", "ts": "2026-02-20T23:31:08.070060+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_15", "wallet": "WHALE_5", "amount": 1589, "side": "buy", "ts": "2026-02-20T23:31:08.070062+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_16", "wallet": "WHALE_2", "amount": 1410, "side": "buy", "ts": "2026-02-20T23:31:08.070065+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_17", "wallet": "RET_014", "amount": 133, "side": "buy", "ts": "2026-02-20T23:31:08.070068+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_18", "wallet": "RET_116", "amount": 80, "side": "sell", "ts": "2026-02-20T23:31:08.070073+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_19", "wallet": "COORD_01", "amount": 695, "side": "buy", "ts": "2026-02-20T23:31:08.070076+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_20", "wallet": "RET_113", "amount": 36, "side": "sell", "ts": "2026-02-20T23:31:08.070080+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_21", "wallet": "COORD_05", "amount": 891, "side": "buy", "ts": "2026-02-20T23:31:08.070083+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_22", "wallet": "RET_080", "amount": 28, "side": "buy", "ts": "2026-02-20T23:31:08.070087+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_23", "wallet": "WHALE_5", "amount": 1698, "side": "buy", "ts": "2026-02-20T23:31:08.070089+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_24", "wallet": "RET_083", "amount": 102, "side": "sell", "ts": "2026-02-20T23:31:08.070092+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_25", "wallet": "RET_116", "amount": 46, "side": "buy", "ts": "2026-02-20T23:31:08.070095+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_26", "wallet": "WHALE_3", "amount": 1920, "side": "buy", "ts": "2026-02-20T23:31:08.070098+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_27", "wallet": "RET_055", "amount": 76, "side": "sell", "ts": "2026-02-20T23:31:08.070101+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_28", "wallet": "WHALE_1", "amount": 2192, "side": "buy", "ts": "2026-02-20T23:31:08.070104+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_29", "wallet": "COORD_07", "amount": 308, "side": "buy", "ts": "2026-02-20T23:31:08.070107+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_30", "wallet": "COORD_06", "amount": 524, "side": "buy", "ts": "2026-02-20T23:31:08.070109+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_31", "wallet": "WHALE_1", "amount": 1319, "side": "buy", "ts": "2026-02-20T23:31:08.070112+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_32", "wallet": "RET_024", "amount": 47, "side": "sell", "ts": "2026-02-20T23:31:08.070115+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_33", "wallet": "RET_038", "amount": 10, "side": "buy", "ts": "2026-02-20T23:31:08.070118+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_34", "wallet": "RET_023", "amount": 114, "side": "buy", "ts": "2026-02-20T23:31:08.070121+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_35", "wallet": "WHALE_4", "amount": 2129, "side": "buy", "ts": "2026-02-20T23:31:08.070124+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_36", "wallet": "WHALE_2", "amount": 1733, "side": "buy", "ts": "2026-02-20T23:31:08.070127+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_37", "wallet": "WHALE_3", "amount": 1695, "side": "buy", "ts": "2026-02-20T23:31:08.070129+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_38", "wallet": "WHALE_2", "amount": 1400, "side": "buy", "ts": "2026-02-20T23:31:08.070132+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_39", "wallet": "RET_116", "amount": 37, "side": "sell", "ts": "2026-02-20T23:31:08.070135+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_40", "wallet": "WHALE_2", "amount": 1918, "side": "buy", "ts": "2026-02-20T23:31:08.070137+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_41", "wallet": "RET_056", "amount": 43, "side": "sell", "ts": "2026-02-20T23:31:08.070140+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_42", "wallet": "RET_081", "amount": 30, "side": "sell", "ts": "2026-02-20T23:31:08.070143+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_43", "wallet": "COORD_03", "amount": 610, "side": "buy", "ts": "2026-02-20T23:31:08.070146+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_44", "wallet": "COORD_09", "amount": 576, "side": "sell", "ts": "2026-02-20T23:31:08.070149+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_45", "wallet": "RET_070", "amount": 135, "side": "buy", "ts": "2026-02-20T23:31:08.070152+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_46", "wallet": "RET_043", "amount": 128, "side": "buy", "ts": "2026-02-20T23:31:08.070155+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_47", "wallet": "COORD_06", "amount": 887, "side": "buy", "ts": "2026-02-20T23:31:08.070158+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_48", "wallet": "RET_085", "amount": 23, "side": "sell", "ts": "2026-02-20T23:31:08.070161+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_49", "wallet": "RET_046", "amount": 112, "side": "buy", "ts": "2026-02-20T23:31:08.070164+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_50", "wallet": "WHALE_4", "amount": 2142, "side": "buy", "ts": "2026-02-20T23:31:08.070167+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_51", "wallet": "RET_044", "amount": 62, "side": "sell", "ts": "2026-02-20T23:31:08.070171+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_52", "wallet": "RET_116", "amount": 36, "side": "buy", "ts": "2026-02-20T23:31:08.070175+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_53", "wallet": "WHALE_5", "amount": 1386, "side": "buy", "ts": "2026-02-20T23:31:08.070178+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_54", "wallet": "RET_074", "amount": 37, "side": "sell", "ts": "2026-02-20T23:31:08.070181+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_55", "wallet": "WHALE_5", "amount": 1628, "side": "buy", "ts": "2026-02-20T23:31:08.070184+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_56", "wallet": "RET_080", "amount": 33, "side": "buy", "ts": "2026-02-20T23:31:08.070187+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_57", "wallet": "COORD_01", "amount": 689, "side": "buy", "ts": "2026-02-20T23:31:08.070190+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_58", "wallet": "RET_061", "amount": 10, "side": "sell", "ts": "2026-02-20T23:31:08.070193+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_59", "wallet": "COORD_11", "amount": 323, "side": "buy", "ts": "2026-02-20T23:31:08.070195+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_60", "wallet": "RET_096", "amount": 29, "side": "buy", "ts": "2026-02-20T23:31:08.070198+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_61", "wallet": "RET_061", "amount": 60, "side": "buy", "ts": "2026-02-20T23:31:08.070201+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_62", "wallet": "RET_033", "amount": 99, "side": "buy", "ts": "2026-02-20T23:31:08.070204+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_63", "wallet": "COORD_06", "amount": 646, "side": "buy", "ts": "2026-02-20T23:31:08.070207+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_64", "wallet": "WHALE_3", "amount": 1362, "side": "buy", "ts": "2026-02-20T23:31:08.070209+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_65", "wallet": "RET_011", "amount": 91, "side": "buy", "ts": "2026-02-20T23:31:08.070212+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_66", "wallet": "RET_043", "amount": 109, "side": "sell", "ts": "2026-02-20T23:31:08.070216+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_67", "wallet": "WHALE_1", "amount": 1632, "side": "buy", "ts": "2026-02-20T23:31:08.070218+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_68", "wallet": "COORD_03", "amount": 636, "side": "sell", "ts": "2026-02-20T23:31:08.070221+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_69", "wallet": "RET_070", "amount": 85, "side": "sell", "ts": "2026-02-20T23:31:08.070224+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_70", "wallet": "COORD_11", "amount": 822, "side": "buy", "ts": "2026-02-20T23:31:08.070227+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_71", "wallet": "WHALE_4", "amount": 2064, "side": "buy", "ts": "2026-02-20T23:31:08.070230+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_72", "wallet": "RET_001", "amount": 85, "side": "sell", "ts": "2026-02-20T23:31:08.070233+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_73", "wallet": "RET_115", "amount": 117, "side": "sell", "ts": "2026-02-20T23:31:08.070235+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_74", "wallet": "WHALE_2", "amount": 1005, "side": "buy", "ts": "2026-02-20T23:31:08.070238+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_75", "wallet": "RET_039", "amount": 38, "side": "sell", "ts": "2026-02-20T23:31:08.070241+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_76", "wallet": "RET_031", "amount": 117, "side": "sell", "ts": "2026-02-20T23:31:08.070244+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_77", "wallet": "RET_063", "amount": 95, "side": "sell", "ts": "2026-02-20T23:31:08.070247+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_78", "wallet": "WHALE_3", "amount": 2173, "side": "buy", "ts": "2026-02-20T23:31:08.070250+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_79", "wallet": "WHALE_2", "amount": 1474, "side": "buy", "ts": "2026-02-20T23:31:08.070253+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_80", "wallet": "RET_014", "amount": 31, "side": "buy", "ts": "2026-02-20T23:31:08.070256+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_81", "wallet": "COORD_03", "amount": 672, "side": "buy", "ts": "2026-02-20T23:31:08.070259+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_82", "wallet": "RET_113", "amount": 73, "side": "buy", "ts": "2026-02-20T23:31:08.070262+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_83", "wallet": "WHALE_1", "amount": 1248, "side": "buy", "ts": "2026-02-20T23:31:08.070264+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_84", "wallet": "WHALE_1", "amount": 1729, "side": "buy", "ts": "2026-02-20T23:31:08.070267+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_85", "wallet": "WHALE_3", "amount": 1217, "side": "buy", "ts": "2026-02-20T23:31:08.070270+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_86", "wallet": "WHALE_2", "amount": 1613, "side": "buy", "ts": "2026-02-20T23:31:08.070272+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_87", "wallet": "WHALE_1", "amount": 1596, "side": "buy", "ts": "2026-02-20T23:31:08.070275+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_88", "wallet": "RET_118", "amount": 116, "side": "buy", "ts": "2026-02-20T23:31:08.070278+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_89", "wallet": "WHALE_5", "amount": 1940, "side": "buy", "ts": "2026-02-20T23:31:08.070281+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_90", "wallet": "RET_054", "amount": 112, "side": "buy", "ts": "2026-02-20T23:31:08.070284+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_91", "wallet": "RET_100", "amount": 97, "side": "buy", "ts": "2026-02-20T23:31:08.070287+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_92", "wallet": "RET_030", "amount": 76, "side": "buy", "ts": "2026-02-20T23:31:08.070290+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_93", "wallet": "RET_092", "amount": 138, "side": "sell", "ts": "2026-02-20T23:31:08.070292+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_94", "wallet": "RET_046", "amount": 27, "side": "sell", "ts": "2026-02-20T23:31:08.070296+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_95", "wallet": "COORD_03", "amount": 484, "side": "buy", "ts": "2026-02-20T23:31:08.070299+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_96", "wallet": "WHALE_4", "amount": 2005, "side": "buy", "ts": "2026-02-20T23:31:08.070301+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_97", "wallet": "RET_106", "amount": 99, "side": "sell", "ts": "2026-02-20T23:31:08.070304+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_98", "wallet": "WHALE_1", "amount": 1639, "side": "buy", "ts": "2026-02-20T23:31:08.070307+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_99", "wallet": "WHALE_4", "amount": 1325, "side": "buy", "ts": "2026-02-20T23:31:08.070310+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_100", "wallet": "RET_070", "amount": 39, "side": "sell", "ts": "2026-02-20T23:31:08.070313+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_101", "wallet": "COORD_01", "amount": 728, "side": "buy", "ts": "2026-02-20T23:31:08.070315+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_102", "wallet": "RET_028", "amount": 58, "side": "buy", "ts": "2026-02-20T23:31:08.070318+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_103", "wallet": "COORD_03", "amount": 766, "side": "buy", "ts": "2026-02-20T23:31:08.070321+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_104", "wallet": "WHALE_1", "amount": 1871, "side": "buy", "ts": "2026-02-20T23:31:08.070324+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_105", "wallet": "COORD_05", "amount": 697, "side": "buy", "ts": "2026-02-20T23:31:08.070326+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_106", "wallet": "RET_062", "amount": 24, "side": "buy", "ts": "2026-02-20T23:31:08.070329+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_107", "wallet": "RET_089", "amount": 19, "side": "sell", "ts": "2026-02-20T23:31:08.070332+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_108", "wallet": "COORD_07", "amount": 439, "side": "buy", "ts": "2026-02-20T23:31:08.070335+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_109", "wallet": "WHALE_4", "amount": 1107, "side": "buy", "ts": "2026-02-20T23:31:08.070339+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_110", "wallet": "RET_031", "amount": 35, "side": "buy", "ts": "2026-02-20T23:31:08.070343+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_111", "wallet": "COORD_10", "amount": 471, "side": "sell", "ts": "2026-02-20T23:31:08.070346+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_112", "wallet": "COORD_04", "amount": 780, "side": "buy", "ts": "2026-02-20T23:31:08.070348+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_113", "wallet": "RET_013", "amount": 106, "side": "sell", "ts": "2026-02-20T23:31:08.070351+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_114", "wallet": "RET_089", "amount": 60, "side": "buy", "ts": "2026-02-20T23:31:08.070354+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_115", "wallet": "WHALE_2", "amount": 1682, "side": "buy", "ts": "2026-02-20T23:31:08.070357+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_116", "wallet": "COORD_00", "amount": 269, "side": "sell", "ts": "2026-02-20T23:31:08.070360+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_117", "wallet": "RET_056", "amount": 138, "side": "buy", "ts": "2026-02-20T23:31:08.070362+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_118", "wallet": "RET_040", "amount": 46, "side": "sell", "ts": "2026-02-20T23:31:08.070366+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_119", "wallet": "WHALE_5", "amount": 1143, "side": "buy", "ts": "2026-02-20T23:31:08.070368+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_120", "wallet": "WHALE_2", "amount": 1335, "side": "buy", "ts": "2026-02-20T23:31:08.070371+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_121", "wallet": "RET_058", "amount": 76, "side": "buy", "ts": "2026-02-20T23:31:08.070374+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_122", "wallet": "RET_049", "amount": 113, "side": "sell", "ts": "2026-02-20T23:31:08.070377+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_123", "wallet": "RET_090", "amount": 136, "side": "buy", "ts": "2026-02-20T23:31:08.070381+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_124", "wallet": "RET_107", "amount": 113, "side": "buy", "ts": "2026-02-20T23:31:08.070385+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_125", "wallet": "COORD_03", "amount": 379, "side": "buy", "ts": "2026-02-20T23:31:08.070388+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_126", "wallet": "COORD_03", "amount": 607, "side": "sell", "ts": "2026-02-20T23:31:08.070391+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_127", "wallet": "RET_105", "amount": 106, "side": "sell", "ts": "2026-02-20T23:31:08.070394+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_128", "wallet": "COORD_08", "amount": 833, "side": "buy", "ts": "2026-02-20T23:31:08.070397+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_129", "wallet": "COORD_03", "amount": 371, "side": "buy", "ts": "2026-02-20T23:31:08.070399+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_130", "wallet": "WHALE_2", "amount": 2200, "side": "buy", "ts": "2026-02-20T23:31:08.070402+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_131", "wallet": "WHALE_5", "amount": 1198, "side": "buy", "ts": "2026-02-20T23:31:08.070405+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_132", "wallet": "RET_006", "amount": 81, "side": "buy", "ts": "2026-02-20T23:31:08.070408+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_133", "wallet": "RET_092", "amount": 86, "side": "sell", "ts": "2026-02-20T23:31:08.070411+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_134", "wallet": "WHALE_4", "amount": 1518, "side": "buy", "ts": "2026-02-20T23:31:08.070413+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_135", "wallet": "WHALE_2", "amount": 1129, "side": "buy", "ts": "2026-02-20T23:31:08.070416+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_136", "wallet": "RET_092", "amount": 49, "side": "buy", "ts": "2026-02-20T23:31:08.070419+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_137", "wallet": "WHALE_3", "amount": 1726, "side": "buy", "ts": "2026-02-20T23:31:08.070422+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_138", "wallet": "RET_010", "amount": 18, "side": "sell", "ts": "2026-02-20T23:31:08.070425+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_139", "wallet": "COORD_10", "amount": 471, "side": "sell", "ts": "2026-02-20T23:31:08.070427+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_140", "wallet": "RET_073", "amount": 41, "side": "buy", "ts": "2026-02-20T23:31:08.070431+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_141", "wallet": "RET_104", "amount": 27, "side": "sell", "ts": "2026-02-20T23:31:08.070433+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_142", "wallet": "RET_007", "amount": 28, "side": "sell", "ts": "2026-02-20T23:31:08.070437+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_143", "wallet": "RET_077", "amount": 47, "side": "buy", "ts": "2026-02-20T23:31:08.070440+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_144", "wallet": "WHALE_4", "amount": 1235, "side": "buy", "ts": "2026-02-20T23:31:08.070442+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_145", "wallet": "RET_059", "amount": 35, "side": "buy", "ts": "2026-02-20T23:31:08.070445+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_146", "wallet": "RET_063", "amount": 27, "side": "sell", "ts": "2026-02-20T23:31:08.070448+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_147", "wallet": "WHALE_3", "amount": 1704, "side": "buy", "ts": "2026-02-20T23:31:08.070451+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_148", "wallet": "RET_105", "amount": 64, "side": "sell", "ts": "2026-02-20T23:31:08.070453+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_149", "wallet": "RET_104", "amount": 17, "side": "buy", "ts": "2026-02-20T23:31:08.070456+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_150", "wallet": "RET_012", "amount": 118, "side": "buy", "ts": "2026-02-20T23:31:08.070459+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_151", "wallet": "COORD_02", "amount": 721, "side": "buy", "ts": "2026-02-20T23:31:08.070462+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_152", "wallet": "RET_019", "amount": 74, "side": "sell", "ts": "2026-02-20T23:31:08.070465+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_153", "wallet": "RET_067", "amount": 98, "side": "sell", "ts": "2026-02-20T23:31:08.070468+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_154", "wallet": "COORD_09", "amount": 708, "side": "buy", "ts": "2026-02-20T23:31:08.070471+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_155", "wallet": "RET_052", "amount": 125, "side": "buy", "ts": "2026-02-20T23:31:08.070474+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_156", "wallet": "RET_104", "amount": 58, "side": "sell", "ts": "2026-02-20T23:31:08.070477+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_157", "wallet": "WHALE_1", "amount": 1313, "side": "buy", "ts": "2026-02-20T23:31:08.070480+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_158", "wallet": "WHALE_5", "amount": 927, "side": "buy", "ts": "2026-02-20T23:31:08.070483+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_159", "wallet": "RET_108", "amount": 64, "side": "buy", "ts": "2026-02-20T23:31:08.070485+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_160", "wallet": "RET_110", "amount": 135, "side": "sell", "ts": "2026-02-20T23:31:08.070488+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_161", "wallet": "WHALE_2", "amount": 1229, "side": "buy", "ts": "2026-02-20T23:31:08.070491+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_162", "wallet": "COORD_06", "amount": 708, "side": "buy", "ts": "2026-02-20T23:31:08.070494+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_163", "wallet": "WHALE_1", "amount": 940, "side": "buy", "ts": "2026-02-20T23:31:08.070497+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_164", "wallet": "WHALE_1", "amount": 1633, "side": "buy", "ts": "2026-02-20T23:31:08.070499+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_165", "wallet": "RET_104", "amount": 71, "side": "sell", "ts": "2026-02-20T23:31:08.070503+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_166", "wallet": "WHALE_2", "amount": 1426, "side": "buy", "ts": "2026-02-20T23:31:08.070505+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_167", "wallet": "COORD_08", "amount": 271, "side": "sell", "ts": "2026-02-20T23:31:08.070508+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_168", "wallet": "WHALE_5", "amount": 1346, "side": "buy", "ts": "2026-02-20T23:31:08.070511+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_169", "wallet": "RET_091", "amount": 65, "side": "buy", "ts": "2026-02-20T23:31:08.070514+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_170", "wallet": "RET_105", "amount": 32, "side": "sell", "ts": "2026-02-20T23:31:08.070517+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_171", "wallet": "WHALE_3", "amount": 926, "side": "buy", "ts": "2026-02-20T23:31:08.070519+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_172", "wallet": "RET_034", "amount": 21, "side": "sell", "ts": "2026-02-20T23:31:08.070522+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_173", "wallet": "COORD_11", "amount": 808, "side": "sell", "ts": "2026-02-20T23:31:08.070525+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_174", "wallet": "RET_000", "amount": 108, "side": "sell", "ts": "2026-02-20T23:31:08.070528+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_175", "wallet": "WHALE_1", "amount": 1099, "side": "buy", "ts": "2026-02-20T23:31:08.070531+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_176", "wallet": "COORD_03", "amount": 832, "side": "buy", "ts": "2026-02-20T23:31:08.070534+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_177", "wallet": "WHALE_4", "amount": 2075, "side": "buy", "ts": "2026-02-20T23:31:08.070537+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_178", "wallet": "COORD_03", "amount": 594, "side": "buy", "ts": "2026-02-20T23:31:08.070540+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_179", "wallet": "RET_084", "amount": 52, "side": "buy", "ts": "2026-02-20T23:31:08.070544+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_180", "wallet": "RET_084", "amount": 101, "side": "buy", "ts": "2026-02-20T23:31:08.070547+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_181", "wallet": "COORD_09", "amount": 469, "side": "buy", "ts": "2026-02-20T23:31:08.070550+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_182", "wallet": "WHALE_3", "amount": 1553, "side": "buy", "ts": "2026-02-20T23:31:08.070553+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_183", "wallet": "WHALE_4", "amount": 1813, "side": "buy", "ts": "2026-02-20T23:31:08.070556+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_184", "wallet": "RET_100", "amount": 65, "side": "buy", "ts": "2026-02-20T23:31:08.070559+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_185", "wallet": "COORD_06", "amount": 635, "side": "buy", "ts": "2026-02-20T23:31:08.070561+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_186", "wallet": "WHALE_1", "amount": 1731, "side": "buy", "ts": "2026-02-20T23:31:08.070564+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_187", "wallet": "RET_015", "amount": 26, "side": "sell", "ts": "2026-02-20T23:31:08.070569+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_188", "wallet": "WHALE_1", "amount": 1359, "side": "buy", "ts": "2026-02-20T23:31:08.070571+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_189", "wallet": "RET_020", "amount": 58, "side": "buy", "ts": "2026-02-20T23:31:08.070574+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_190", "wallet": "WHALE_2", "amount": 1769, "side": "buy", "ts": "2026-02-20T23:31:08.070577+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_191", "wallet": "RET_009", "amount": 106, "side": "buy", "ts": "2026-02-20T23:31:08.070580+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_192", "wallet": "RET_028", "amount": 86, "side": "buy", "ts": "2026-02-20T23:31:08.070583+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_193", "wallet": "RET_071", "amount": 96, "side": "buy", "ts": "2026-02-20T23:31:08.070586+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_194", "wallet": "RET_090", "amount": 103, "side": "buy", "ts": "2026-02-20T23:31:08.070589+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_195", "wallet": "RET_038", "amount": 73, "side": "sell", "ts": "2026-02-20T23:31:08.070592+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_196", "wallet": "COORD_06", "amount": 751, "side": "buy", "ts": "2026-02-20T23:31:08.070595+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_197", "wallet": "WHALE_5", "amount": 1339, "side": "buy", "ts": "2026-02-20T23:31:08.070598+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_198", "wallet": "RET_057", "amount": 102, "side": "sell", "ts": "2026-02-20T23:31:08.070601+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_199", "wallet": "WHALE_1", "amount": 1012, "side": "buy", "ts": "2026-02-20T23:31:08.070603+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_200", "wallet": "COORD_02", "amount": 377, "side": "buy", "ts": "2026-02-20T23:31:08.070606+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_201", "wallet": "RET_026", "amount": 81, "side": "buy", "ts": "2026-02-20T23:31:08.070609+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_202", "wallet": "RET_050", "amount": 36, "side": "buy", "ts": "2026-02-20T23:31:08.070612+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_203", "wallet": "RET_099", "amount": 40, "side": "sell", "ts": "2026-02-20T23:31:08.070615+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_204", "wallet": "RET_096", "amount": 108, "side": "sell", "ts": "2026-02-20T23:31:08.070617+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_205", "wallet": "WHALE_5", "amount": 1289, "side": "buy", "ts": "2026-02-20T23:31:08.070620+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_206", "wallet": "COORD_05", "amount": 440, "side": "sell", "ts": "2026-02-20T23:31:08.070623+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_207", "wallet": "WHALE_1", "amount": 2169, "side": "buy", "ts": "2026-02-20T23:31:08.070626+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_208", "wallet": "COORD_03", "amount": 807, "side": "buy", "ts": "2026-02-20T23:31:08.070629+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_209", "wallet": "RET_083", "amount": 102, "side": "sell", "ts": "2026-02-20T23:31:08.070632+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_210", "wallet": "RET_018", "amount": 123, "side": "buy", "ts": "2026-02-20T23:31:08.070635+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_211", "wallet": "WHALE_5", "amount": 2084, "side": "buy", "ts": "2026-02-20T23:31:08.070637+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_212", "wallet": "COORD_09", "amount": 605, "side": "sell", "ts": "2026-02-20T23:31:08.070640+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_213", "wallet": "WHALE_3", "amount": 1573, "side": "buy", "ts": "2026-02-20T23:31:08.070643+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_214", "wallet": "WHALE_3", "amount": 1960, "side": "buy", "ts": "2026-02-20T23:31:08.070646+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_215", "wallet": "WHALE_4", "amount": 953, "side": "buy", "ts": "2026-02-20T23:31:08.070648+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_216", "wallet": "WHALE_5", "amount": 903, "side": "buy", "ts": "2026-02-20T23:31:08.070651+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_217", "wallet": "RET_048", "amount": 69, "side": "sell", "ts": "2026-02-20T23:31:08.070654+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_218", "wallet": "RET_108", "amount": 38, "side": "buy", "ts": "2026-02-20T23:31:08.070657+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_219", "wallet": "WHALE_1", "amount": 2022, "side": "buy", "ts": "2026-02-20T23:31:08.070660+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_220", "wallet": "RET_001", "amount": 107, "side": "buy", "ts": "2026-02-20T23:31:08.070663+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_221", "wallet": "COORD_07", "amount": 366, "side": "buy", "ts": "2026-02-20T23:31:08.070666+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_222", "wallet": "RET_008", "amount": 10, "side": "buy", "ts": "2026-02-20T23:31:08.070669+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_223", "wallet": "WHALE_5", "amount": 1274, "side": "buy", "ts": "2026-02-20T23:31:08.070672+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_224", "wallet": "RET_050", "amount": 14, "side": "buy", "ts": "2026-02-20T23:31:08.070675+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_225", "wallet": "RET_042", "amount": 42, "side": "sell", "ts": "2026-02-20T23:31:08.070678+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_226", "wallet": "COORD_06", "amount": 668, "side": "buy", "ts": "2026-02-20T23:31:08.070681+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_227", "wallet": "COORD_05", "amount": 811, "side": "buy", "ts": "2026-02-20T23:31:08.070684+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_228", "wallet": "WHALE_2", "amount": 1380, "side": "buy", "ts": "2026-02-20T23:31:08.070686+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_229", "wallet": "COORD_02", "amount": 548, "side": "buy", "ts": "2026-02-20T23:31:08.070689+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_230", "wallet": "WHALE_4", "amount": 1480, "side": "buy", "ts": "2026-02-20T23:31:08.070692+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_231", "wallet": "RET_097", "amount": 135, "side": "sell", "ts": "2026-02-20T23:31:08.070695+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_232", "wallet": "WHALE_1", "amount": 926, "side": "buy", "ts": "2026-02-20T23:31:08.070698+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_233", "wallet": "WHALE_3", "amount": 1180, "side": "buy", "ts": "2026-02-20T23:31:08.070700+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_234", "wallet": "WHALE_3", "amount": 1832, "side": "buy", "ts": "2026-02-20T23:31:08.070703+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_235", "wallet": "RET_041", "amount": 11, "side": "buy", "ts": "2026-02-20T23:31:08.070706+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_236", "wallet": "RET_072", "amount": 69, "side": "buy", "ts": "2026-02-20T23:31:08.070709+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_237", "wallet": "COORD_11", "amount": 546, "side": "buy", "ts": "2026-02-20T23:31:08.070712+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_238", "wallet": "RET_065", "amount": 83, "side": "buy", "ts": "2026-02-20T23:31:08.070715+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_239", "wallet": "WHALE_3", "amount": 1569, "side": "buy", "ts": "2026-02-20T23:31:08.070718+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_240", "wallet": "WHALE_4", "amount": 1899, "side": "buy", "ts": "2026-02-20T23:31:08.070720+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_241", "wallet": "RET_118", "amount": 27, "side": "buy", "ts": "2026-02-20T23:31:08.070723+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_242", "wallet": "WHALE_1", "amount": 1514, "side": "buy", "ts": "2026-02-20T23:31:08.070726+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_243", "wallet": "RET_021", "amount": 137, "side": "buy", "ts": "2026-02-20T23:31:08.070729+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_244", "wallet": "RET_079", "amount": 65, "side": "buy", "ts": "2026-02-20T23:31:08.070732+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_245", "wallet": "COORD_02", "amount": 287, "side": "sell", "ts": "2026-02-20T23:31:08.070735+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_246", "wallet": "RET_004", "amount": 21, "side": "buy", "ts": "2026-02-20T23:31:08.070738+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_247", "wallet": "RET_098", "amount": 63, "side": "buy", "ts": "2026-02-20T23:31:08.070740+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_248", "wallet": "WHALE_1", "amount": 2183, "side": "buy", "ts": "2026-02-20T23:31:08.070743+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_249", "wallet": "RET_010", "amount": 118, "side": "sell", "ts": "2026-02-20T23:31:08.070746+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_250", "wallet": "RET_107", "amount": 48, "side": "sell", "ts": "2026-02-20T23:31:08.070749+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_251", "wallet": "RET_100", "amount": 55, "side": "sell", "ts": "2026-02-20T23:31:08.070752+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_252", "wallet": "RET_005", "amount": 115, "side": "sell", "ts": "2026-02-20T23:31:08.070755+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_253", "wallet": "RET_088", "amount": 101, "side": "buy", "ts": "2026-02-20T23:31:08.070758+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_254", "wallet": "RET_044", "amount": 65, "side": "buy", "ts": "2026-02-20T23:31:08.070761+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_255", "wallet": "RET_018", "amount": 132, "side": "sell", "ts": "2026-02-20T23:31:08.070764+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_256", "wallet": "RET_090", "amount": 22, "side": "sell", "ts": "2026-02-20T23:31:08.070767+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_257", "wallet": "WHALE_3", "amount": 1400, "side": "buy", "ts": "2026-02-20T23:31:08.070769+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_258", "wallet": "RET_046", "amount": 96, "side": "sell", "ts": "2026-02-20T23:31:08.070772+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_259", "wallet": "RET_021", "amount": 135, "side": "buy", "ts": "2026-02-20T23:31:08.070776+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_260", "wallet": "RET_098", "amount": 86, "side": "sell", "ts": "2026-02-20T23:31:08.070779+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_261", "wallet": "RET_068", "amount": 86, "side": "buy", "ts": "2026-02-20T23:31:08.070782+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_262", "wallet": "WHALE_4", "amount": 1661, "side": "buy", "ts": "2026-02-20T23:31:08.070784+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_263", "wallet": "RET_036", "amount": 22, "side": "sell", "ts": "2026-02-20T23:31:08.070788+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_264", "wallet": "WHALE_1", "amount": 1347, "side": "buy", "ts": "2026-02-20T23:31:08.070790+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_265", "wallet": "WHALE_3", "amount": 1854, "side": "buy", "ts": "2026-02-20T23:31:08.070795+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_266", "wallet": "COORD_00", "amount": 306, "side": "buy", "ts": "2026-02-20T23:31:08.070798+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_267", "wallet": "WHALE_1", "amount": 1302, "side": "buy", "ts": "2026-02-20T23:31:08.070801+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_268", "wallet": "WHALE_2", "amount": 2154, "side": "buy", "ts": "2026-02-20T23:31:08.070804+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_269", "wallet": "WHALE_3", "amount": 1045, "side": "buy", "ts": "2026-02-20T23:31:08.070806+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_270", "wallet": "RET_073", "amount": 38, "side": "buy", "ts": "2026-02-20T23:31:08.070810+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_271", "wallet": "WHALE_1", "amount": 965, "side": "buy", "ts": "2026-02-20T23:31:08.070812+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_272", "wallet": "WHALE_3", "amount": 1526, "side": "buy", "ts": "2026-02-20T23:31:08.070815+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_273", "wallet": "WHALE_5", "amount": 1423, "side": "buy", "ts": "2026-02-20T23:31:08.070818+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_274", "wallet": "WHALE_2", "amount": 914, "side": "buy", "ts": "2026-02-20T23:31:08.070820+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_275", "wallet": "RET_056", "amount": 44, "side": "buy", "ts": "2026-02-20T23:31:08.070823+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_276", "wallet": "WHALE_4", "amount": 1478, "side": "buy", "ts": "2026-02-20T23:31:08.070826+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_277", "wallet": "RET_065", "amount": 108, "side": "buy", "ts": "2026-02-20T23:31:08.070829+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_278", "wallet": "COORD_06", "amount": 674, "side": "buy", "ts": "2026-02-20T23:31:08.070832+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_279", "wallet": "COORD_00", "amount": 619, "side": "sell", "ts": "2026-02-20T23:31:08.070835+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_280", "wallet": "RET_004", "amount": 34, "side": "buy", "ts": "2026-02-20T23:31:08.070838+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_281", "wallet": "WHALE_5", "amount": 968, "side": "buy", "ts": "2026-02-20T23:31:08.070840+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_282", "wallet": "RET_099", "amount": 17, "side": "sell", "ts": "2026-02-20T23:31:08.070844+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_283", "wallet": "RET_108", "amount": 71, "side": "sell", "ts": "2026-02-20T23:31:08.070847+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_284", "wallet": "RET_093", "amount": 86, "side": "sell", "ts": "2026-02-20T23:31:08.070850+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_285", "wallet": "RET_004", "amount": 75, "side": "buy", "ts": "2026-02-20T23:31:08.070853+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_286", "wallet": "WHALE_2", "amount": 1433, "side": "buy", "ts": "2026-02-20T23:31:08.070855+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_287", "wallet": "RET_052", "amount": 46, "side": "sell", "ts": "2026-02-20T23:31:08.070858+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_288", "wallet": "RET_039", "amount": 23, "side": "buy", "ts": "2026-02-20T23:31:08.070861+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_289", "wallet": "RET_050", "amount": 10, "side": "buy", "ts": "2026-02-20T23:31:08.070864+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_290", "wallet": "WHALE_3", "amount": 927, "side": "buy", "ts": "2026-02-20T23:31:08.070867+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_291", "wallet": "COORD_06", "amount": 536, "side": "sell", "ts": "2026-02-20T23:31:08.070870+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_292", "wallet": "WHALE_3", "amount": 1240, "side": "buy", "ts": "2026-02-20T23:31:08.070873+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_293", "wallet": "RET_091", "amount": 20, "side": "sell", "ts": "2026-02-20T23:31:08.070876+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_294", "wallet": "RET_056", "amount": 114, "side": "sell", "ts": "2026-02-20T23:31:08.070879+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_295", "wallet": "RET_101", "amount": 133, "side": "buy", "ts": "2026-02-20T23:31:08.070882+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_296", "wallet": "RET_026", "amount": 16, "side": "sell", "ts": "2026-02-20T23:31:08.070885+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_297", "wallet": "WHALE_4", "amount": 1178, "side": "buy", "ts": "2026-02-20T23:31:08.070888+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_298", "wallet": "COORD_07", "amount": 836, "side": "sell", "ts": "2026-02-20T23:31:08.070891+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_299", "wallet": "WHALE_1", "amount": 1736, "side": "buy", "ts": "2026-02-20T23:31:08.070893+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_300", "wallet": "RET_046", "amount": 120, "side": "buy", "ts": "2026-02-20T23:31:08.070897+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_301", "wallet": "RET_073", "amount": 128, "side": "sell", "ts": "2026-02-20T23:31:08.070899+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_302", "wallet": "WHALE_1", "amount": 1824, "side": "buy", "ts": "2026-02-20T23:31:08.070902+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_303", "wallet": "RET_010", "amount": 85, "side": "sell", "ts": "2026-02-20T23:31:08.070905+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_304", "wallet": "COORD_03", "amount": 700, "side": "buy", "ts": "2026-02-20T23:31:08.070908+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_305", "wallet": "RET_093", "amount": 112, "side": "buy", "ts": "2026-02-20T23:31:08.070911+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_306", "wallet": "COORD_08", "amount": 586, "side": "buy", "ts": "2026-02-20T23:31:08.070916+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_307", "wallet": "RET_068", "amount": 104, "side": "buy", "ts": "2026-02-20T23:31:08.070919+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_308", "wallet": "COORD_00", "amount": 635, "side": "buy", "ts": "2026-02-20T23:31:08.070921+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_309", "wallet": "WHALE_3", "amount": 1951, "side": "buy", "ts": "2026-02-20T23:31:08.070924+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_310", "wallet": "RET_009", "amount": 100, "side": "sell", "ts": "2026-02-20T23:31:08.070927+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_311", "wallet": "RET_025", "amount": 138, "side": "buy", "ts": "2026-02-20T23:31:08.070930+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_312", "wallet": "RET_076", "amount": 97, "side": "buy", "ts": "2026-02-20T23:31:08.070934+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_313", "wallet": "WHALE_3", "amount": 1235, "side": "buy", "ts": "2026-02-20T23:31:08.070936+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_314", "wallet": "WHALE_2", "amount": 2036, "side": "buy", "ts": "2026-02-20T23:31:08.070939+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_315", "wallet": "WHALE_5", "amount": 1407, "side": "buy", "ts": "2026-02-20T23:31:08.070942+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_316", "wallet": "COORD_09", "amount": 724, "side": "buy", "ts": "2026-02-20T23:31:08.070944+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_317", "wallet": "COORD_10", "amount": 693, "side": "buy", "ts": "2026-02-20T23:31:08.070947+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_318", "wallet": "COORD_11", "amount": 450, "side": "buy", "ts": "2026-02-20T23:31:08.070951+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_319", "wallet": "COORD_10", "amount": 466, "side": "sell", "ts": "2026-02-20T23:31:08.070954+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_320", "wallet": "WHALE_5", "amount": 1736, "side": "buy", "ts": "2026-02-20T23:31:08.070956+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_321", "wallet": "RET_095", "amount": 29, "side": "buy", "ts": "2026-02-20T23:31:08.070959+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_322", "wallet": "RET_020", "amount": 74, "side": "buy", "ts": "2026-02-20T23:31:08.070962+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_323", "wallet": "RET_111", "amount": 72, "side": "sell", "ts": "2026-02-20T23:31:08.070966+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_324", "wallet": "RET_104", "amount": 87, "side": "buy", "ts": "2026-02-20T23:31:08.070968+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_325", "wallet": "RET_069", "amount": 98, "side": "sell", "ts": "2026-02-20T23:31:08.070971+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_326", "wallet": "COORD_08", "amount": 660, "side": "buy", "ts": "2026-02-20T23:31:08.070975+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_327", "wallet": "RET_030", "amount": 29, "side": "sell", "ts": "2026-02-20T23:31:08.070980+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_328", "wallet": "RET_034", "amount": 41, "side": "buy", "ts": "2026-02-20T23:31:08.070983+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_329", "wallet": "RET_007", "amount": 57, "side": "sell", "ts": "2026-02-20T23:31:08.070985+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_330", "wallet": "WHALE_4", "amount": 1159, "side": "buy", "ts": "2026-02-20T23:31:08.070988+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_331", "wallet": "COORD_03", "amount": 866, "side": "buy", "ts": "2026-02-20T23:31:08.070991+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_332", "wallet": "WHALE_3", "amount": 1906, "side": "buy", "ts": "2026-02-20T23:31:08.070993+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_333", "wallet": "WHALE_5", "amount": 1689, "side": "buy", "ts": "2026-02-20T23:31:08.070996+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_334", "wallet": "WHALE_2", "amount": 1426, "side": "buy", "ts": "2026-02-20T23:31:08.070999+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_335", "wallet": "WHALE_1", "amount": 1323, "side": "buy", "ts": "2026-02-20T23:31:08.071001+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_336", "wallet": "COORD_10", "amount": 327, "side": "buy", "ts": "2026-02-20T23:31:08.071004+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_337", "wallet": "RET_051", "amount": 74, "side": "sell", "ts": "2026-02-20T23:31:08.071007+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_338", "wallet": "WHALE_2", "amount": 1655, "side": "buy", "ts": "2026-02-20T23:31:08.071010+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_339", "wallet": "COORD_01", "amount": 239, "side": "buy", "ts": "2026-02-20T23:31:08.071013+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_340", "wallet": "COORD_06", "amount": 393, "side": "buy", "ts": "2026-02-20T23:31:08.071016+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_341", "wallet": "RET_048", "amount": 138, "side": "buy", "ts": "2026-02-20T23:31:08.071019+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_342", "wallet": "WHALE_4", "amount": 963, "side": "buy", "ts": "2026-02-20T23:31:08.071021+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_343", "wallet": "RET_116", "amount": 64, "side": "buy", "ts": "2026-02-20T23:31:08.071026+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_344", "wallet": "WHALE_4", "amount": 1611, "side": "buy", "ts": "2026-02-20T23:31:08.071029+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_345", "wallet": "RET_027", "amount": 13, "side": "sell", "ts": "2026-02-20T23:31:08.071032+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_346", "wallet": "RET_101", "amount": 133, "side": "sell", "ts": "2026-02-20T23:31:08.071035+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_347", "wallet": "WHALE_1", "amount": 1904, "side": "buy", "ts": "2026-02-20T23:31:08.071037+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_348", "wallet": "RET_095", "amount": 127, "side": "buy", "ts": "2026-02-20T23:31:08.071040+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_349", "wallet": "COORD_06", "amount": 422, "side": "buy", "ts": "2026-02-20T23:31:08.071043+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_350", "wallet": "RET_112", "amount": 37, "side": "sell", "ts": "2026-02-20T23:31:08.071046+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_351", "wallet": "RET_095", "amount": 105, "side": "sell", "ts": "2026-02-20T23:31:08.071049+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_352", "wallet": "RET_090", "amount": 85, "side": "sell", "ts": "2026-02-20T23:31:08.071052+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_353", "wallet": "RET_109", "amount": 114, "side": "sell", "ts": "2026-02-20T23:31:08.071055+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_354", "wallet": "WHALE_5", "amount": 1642, "side": "buy", "ts": "2026-02-20T23:31:08.071058+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_355", "wallet": "RET_015", "amount": 28, "side": "buy", "ts": "2026-02-20T23:31:08.071061+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_356", "wallet": "COORD_06", "amount": 210, "side": "buy", "ts": "2026-02-20T23:31:08.071064+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_357", "wallet": "RET_039", "amount": 20, "side": "buy", "ts": "2026-02-20T23:31:08.071067+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_358", "wallet": "RET_054", "amount": 18, "side": "sell", "ts": "2026-02-20T23:31:08.071070+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_359", "wallet": "RET_058", "amount": 94, "side": "buy", "ts": "2026-02-20T23:31:08.071073+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_360", "wallet": "RET_106", "amount": 94, "side": "buy", "ts": "2026-02-20T23:31:08.071075+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_361", "wallet": "COORD_01", "amount": 886, "side": "sell", "ts": "2026-02-20T23:31:08.071078+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_362", "wallet": "COORD_09", "amount": 686, "side": "buy", "ts": "2026-02-20T23:31:08.071081+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_363", "wallet": "COORD_03", "amount": 576, "side": "buy", "ts": "2026-02-20T23:31:08.071084+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_364", "wallet": "RET_075", "amount": 118, "side": "sell", "ts": "2026-02-20T23:31:08.071087+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_365", "wallet": "WHALE_3", "amount": 1919, "side": "buy", "ts": "2026-02-20T23:31:08.071090+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_366", "wallet": "RET_070", "amount": 135, "side": "sell", "ts": "2026-02-20T23:31:08.071092+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_367", "wallet": "COORD_05", "amount": 633, "side": "buy", "ts": "2026-02-20T23:31:08.071095+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_368", "wallet": "WHALE_5", "amount": 1580, "side": "buy", "ts": "2026-02-20T23:31:08.071098+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_369", "wallet": "RET_077", "amount": 79, "side": "buy", "ts": "2026-02-20T23:31:08.071101+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_370", "wallet": "WHALE_4", "amount": 1985, "side": "buy", "ts": "2026-02-20T23:31:08.071104+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_371", "wallet": "RET_017", "amount": 111, "side": "buy", "ts": "2026-02-20T23:31:08.071106+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_372", "wallet": "RET_005", "amount": 63, "side": "sell", "ts": "2026-02-20T23:31:08.071109+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_373", "wallet": "RET_006", "amount": 34, "side": "buy", "ts": "2026-02-20T23:31:08.071113+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_374", "wallet": "COORD_06", "amount": 758, "side": "buy", "ts": "2026-02-20T23:31:08.071115+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_375", "wallet": "RET_089", "amount": 69, "side": "buy", "ts": "2026-02-20T23:31:08.071118+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_376", "wallet": "RET_025", "amount": 12, "side": "sell", "ts": "2026-02-20T23:31:08.071121+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_377", "wallet": "WHALE_2", "amount": 1265, "side": "buy", "ts": "2026-02-20T23:31:08.071124+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_378", "wallet": "RET_060", "amount": 36, "side": "buy", "ts": "2026-02-20T23:31:08.071127+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_379", "wallet": "RET_051", "amount": 97, "side": "buy", "ts": "2026-02-20T23:31:08.071130+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_380", "wallet": "WHALE_4", "amount": 2024, "side": "buy", "ts": "2026-02-20T23:31:08.071133+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_381", "wallet": "WHALE_4", "amount": 1179, "side": "buy", "ts": "2026-02-20T23:31:08.071135+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_382", "wallet": "RET_061", "amount": 138, "side": "sell", "ts": "2026-02-20T23:31:08.071138+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_383", "wallet": "RET_013", "amount": 134, "side": "sell", "ts": "2026-02-20T23:31:08.071141+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_384", "wallet": "WHALE_1", "amount": 2120, "side": "buy", "ts": "2026-02-20T23:31:08.071144+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_385", "wallet": "COORD_09", "amount": 333, "side": "buy", "ts": "2026-02-20T23:31:08.071147+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_386", "wallet": "WHALE_3", "amount": 1236, "side": "buy", "ts": "2026-02-20T23:31:08.071150+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_387", "wallet": "WHALE_1", "amount": 1951, "side": "buy", "ts": "2026-02-20T23:31:08.071153+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_388", "wallet": "COORD_06", "amount": 331, "side": "buy", "ts": "2026-02-20T23:31:08.071155+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_389", "wallet": "RET_049", "amount": 52, "side": "buy", "ts": "2026-02-20T23:31:08.071158+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_390", "wallet": "RET_024", "amount": 74, "side": "buy", "ts": "2026-02-20T23:31:08.071161+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_391", "wallet": "WHALE_5", "amount": 1743, "side": "buy", "ts": "2026-02-20T23:31:08.071164+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_392", "wallet": "RET_110", "amount": 140, "side": "buy", "ts": "2026-02-20T23:31:08.071167+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_393", "wallet": "RET_081", "amount": 33, "side": "buy", "ts": "2026-02-20T23:31:08.071170+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_394", "wallet": "RET_069", "amount": 53, "side": "buy", "ts": "2026-02-20T23:31:08.071173+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_395", "wallet": "WHALE_5", "amount": 1931, "side": "buy", "ts": "2026-02-20T23:31:08.071176+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_396", "wallet": "RET_027", "amount": 91, "side": "sell", "ts": "2026-02-20T23:31:08.071179+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_397", "wallet": "RET_063", "amount": 102, "side": "buy", "ts": "2026-02-20T23:31:08.071182+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_398", "wallet": "RET_028", "amount": 134, "side": "buy", "ts": "2026-02-20T23:31:08.071184+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_399", "wallet": "RET_080", "amount": 69, "side": "buy", "ts": "2026-02-20T23:31:08.071187+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_400", "wallet": "RET_064", "amount": 127, "side": "sell", "ts": "2026-02-20T23:31:08.071190+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_401", "wallet": "WHALE_3", "amount": 1043, "side": "buy", "ts": "2026-02-20T23:31:08.071193+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_402", "wallet": "COORD_03", "amount": 265, "side": "buy", "ts": "2026-02-20T23:31:08.071196+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_403", "wallet": "COORD_11", "amount": 818, "side": "buy", "ts": "2026-02-20T23:31:08.071199+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_404", "wallet": "RET_075", "amount": 36, "side": "sell", "ts": "2026-02-20T23:31:08.071202+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_405", "wallet": "RET_043", "amount": 35, "side": "buy", "ts": "2026-02-20T23:31:08.071205+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_406", "wallet": "RET_069", "amount": 60, "side": "buy", "ts": "2026-02-20T23:31:08.071208+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_407", "wallet": "WHALE_1", "amount": 1407, "side": "buy", "ts": "2026-02-20T23:31:08.071210+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_408", "wallet": "WHALE_4", "amount": 2074, "side": "buy", "ts": "2026-02-20T23:31:08.071213+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_409", "wallet": "COORD_09", "amount": 873, "side": "sell", "ts": "2026-02-20T23:31:08.071216+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_410", "wallet": "COORD_03", "amount": 653, "side": "buy", "ts": "2026-02-20T23:31:08.071219+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_411", "wallet": "RET_036", "amount": 127, "side": "sell", "ts": "2026-02-20T23:31:08.071221+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_412", "wallet": "RET_095", "amount": 74, "side": "sell", "ts": "2026-02-20T23:31:08.071225+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_413", "wallet": "RET_070", "amount": 14, "side": "sell", "ts": "2026-02-20T23:31:08.071228+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_414", "wallet": "COORD_00", "amount": 289, "side": "buy", "ts": "2026-02-20T23:31:08.071230+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_415", "wallet": "COORD_00", "amount": 572, "side": "buy", "ts": "2026-02-20T23:31:08.071233+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_416", "wallet": "RET_002", "amount": 69, "side": "sell", "ts": "2026-02-20T23:31:08.071237+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_417", "wallet": "RET_040", "amount": 23, "side": "buy", "ts": "2026-02-20T23:31:08.071240+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_418", "wallet": "WHALE_2", "amount": 928, "side": "buy", "ts": "2026-02-20T23:31:08.071242+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_419", "wallet": "WHALE_1", "amount": 1081, "side": "buy", "ts": "2026-02-20T23:31:08.071245+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_420", "wallet": "RET_107", "amount": 31, "side": "sell", "ts": "2026-02-20T23:31:08.071248+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_421", "wallet": "COORD_09", "amount": 205, "side": "buy", "ts": "2026-02-20T23:31:08.071253+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_422", "wallet": "RET_109", "amount": 98, "side": "sell", "ts": "2026-02-20T23:31:08.071256+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_423", "wallet": "RET_008", "amount": 62, "side": "buy", "ts": "2026-02-20T23:31:08.071258+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_424", "wallet": "COORD_03", "amount": 259, "side": "buy", "ts": "2026-02-20T23:31:08.071261+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_425", "wallet": "RET_055", "amount": 118, "side": "buy", "ts": "2026-02-20T23:31:08.071264+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_426", "wallet": "RET_029", "amount": 54, "side": "sell", "ts": "2026-02-20T23:31:08.071267+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_427", "wallet": "RET_005", "amount": 46, "side": "sell", "ts": "2026-02-20T23:31:08.071270+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_428", "wallet": "RET_074", "amount": 140, "side": "buy", "ts": "2026-02-20T23:31:08.071273+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_429", "wallet": "COORD_08", "amount": 418, "side": "buy", "ts": "2026-02-20T23:31:08.071276+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_430", "wallet": "RET_110", "amount": 16, "side": "buy", "ts": "2026-02-20T23:31:08.071279+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_431", "wallet": "RET_056", "amount": 84, "side": "buy", "ts": "2026-02-20T23:31:08.071282+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_432", "wallet": "RET_054", "amount": 36, "side": "sell", "ts": "2026-02-20T23:31:08.071285+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_433", "wallet": "RET_044", "amount": 92, "side": "sell", "ts": "2026-02-20T23:31:08.071289+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_434", "wallet": "WHALE_5", "amount": 2157, "side": "buy", "ts": "2026-02-20T23:31:08.071292+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_435", "wallet": "RET_098", "amount": 40, "side": "buy", "ts": "2026-02-20T23:31:08.071295+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_436", "wallet": "RET_006", "amount": 48, "side": "sell", "ts": "2026-02-20T23:31:08.071298+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_437", "wallet": "COORD_07", "amount": 456, "side": "buy", "ts": "2026-02-20T23:31:08.071301+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_438", "wallet": "RET_071", "amount": 56, "side": "sell", "ts": "2026-02-20T23:31:08.071304+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_439", "wallet": "RET_024", "amount": 47, "side": "buy", "ts": "2026-02-20T23:31:08.071307+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_440", "wallet": "RET_108", "amount": 62, "side": "buy", "ts": "2026-02-20T23:31:08.071310+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_441", "wallet": "RET_087", "amount": 104, "side": "sell", "ts": "2026-02-20T23:31:08.071312+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_442", "wallet": "RET_011", "amount": 87, "side": "sell", "ts": "2026-02-20T23:31:08.071315+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_443", "wallet": "RET_083", "amount": 57, "side": "buy", "ts": "2026-02-20T23:31:08.071318+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_444", "wallet": "COORD_05", "amount": 429, "side": "buy", "ts": "2026-02-20T23:31:08.071321+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_445", "wallet": "RET_036", "amount": 108, "side": "sell", "ts": "2026-02-20T23:31:08.071324+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_446", "wallet": "WHALE_4", "amount": 2159, "side": "buy", "ts": "2026-02-20T23:31:08.071327+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_447", "wallet": "COORD_08", "amount": 864, "side": "buy", "ts": "2026-02-20T23:31:08.071330+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_448", "wallet": "RET_098", "amount": 70, "side": "buy", "ts": "2026-02-20T23:31:08.071332+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_449", "wallet": "RET_033", "amount": 29, "side": "sell", "ts": "2026-02-20T23:31:08.071335+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_450", "wallet": "RET_012", "amount": 10, "side": "sell", "ts": "2026-02-20T23:31:08.071338+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_451", "wallet": "WHALE_1", "amount": 1967, "side": "buy", "ts": "2026-02-20T23:31:08.071341+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_452", "wallet": "RET_047", "amount": 44, "side": "sell", "ts": "2026-02-20T23:31:08.071344+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_453", "wallet": "RET_064", "amount": 40, "side": "sell", "ts": "2026-02-20T23:31:08.071347+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_454", "wallet": "RET_092", "amount": 138, "side": "buy", "ts": "2026-02-20T23:31:08.071350+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_455", "wallet": "WHALE_3", "amount": 1579, "side": "buy", "ts": "2026-02-20T23:31:08.071353+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_456", "wallet": "RET_009", "amount": 98, "side": "buy", "ts": "2026-02-20T23:31:08.071356+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_457", "wallet": "COORD_09", "amount": 208, "side": "buy", "ts": "2026-02-20T23:31:08.071358+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_458", "wallet": "RET_031", "amount": 70, "side": "sell", "ts": "2026-02-20T23:31:08.071361+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_459", "wallet": "RET_057", "amount": 134, "side": "sell", "ts": "2026-02-20T23:31:08.071364+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_460", "wallet": "WHALE_2", "amount": 2183, "side": "buy", "ts": "2026-02-20T23:31:08.071367+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_461", "wallet": "RET_115", "amount": 98, "side": "buy", "ts": "2026-02-20T23:31:08.071370+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_462", "wallet": "RET_104", "amount": 55, "side": "sell", "ts": "2026-02-20T23:31:08.071373+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_463", "wallet": "COORD_07", "amount": 514, "side": "buy", "ts": "2026-02-20T23:31:08.071376+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_464", "wallet": "RET_053", "amount": 96, "side": "sell", "ts": "2026-02-20T23:31:08.071379+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_465", "wallet": "RET_075", "amount": 115, "side": "sell", "ts": "2026-02-20T23:31:08.071382+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_466", "wallet": "RET_116", "amount": 21, "side": "sell", "ts": "2026-02-20T23:31:08.071385+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_467", "wallet": "RET_086", "amount": 93, "side": "sell", "ts": "2026-02-20T23:31:08.071388+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_468", "wallet": "RET_103", "amount": 90, "side": "sell", "ts": "2026-02-20T23:31:08.071391+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_469", "wallet": "RET_099", "amount": 39, "side": "buy", "ts": "2026-02-20T23:31:08.071394+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_470", "wallet": "WHALE_5", "amount": 2061, "side": "buy", "ts": "2026-02-20T23:31:08.071397+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_471", "wallet": "WHALE_1", "amount": 1398, "side": "buy", "ts": "2026-02-20T23:31:08.071400+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_472", "wallet": "WHALE_4", "amount": 2170, "side": "buy", "ts": "2026-02-20T23:31:08.071402+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_473", "wallet": "WHALE_2", "amount": 1118, "side": "buy", "ts": "2026-02-20T23:31:08.071405+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_474", "wallet": "RET_002", "amount": 18, "side": "sell", "ts": "2026-02-20T23:31:08.071408+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_475", "wallet": "RET_017", "amount": 101, "side": "buy", "ts": "2026-02-20T23:31:08.071411+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_476", "wallet": "RET_090", "amount": 36, "side": "buy", "ts": "2026-02-20T23:31:08.071413+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_477", "wallet": "RET_012", "amount": 135, "side": "sell", "ts": "2026-02-20T23:31:08.071416+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_478", "wallet": "RET_025", "amount": 50, "side": "buy", "ts": "2026-02-20T23:31:08.071419+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_479", "wallet": "WHALE_4", "amount": 1191, "side": "buy", "ts": "2026-02-20T23:31:08.071422+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_480", "wallet": "RET_083", "amount": 45, "side": "sell", "ts": "2026-02-20T23:31:08.071424+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_481", "wallet": "RET_115", "amount": 74, "side": "buy", "ts": "2026-02-20T23:31:08.071427+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_482", "wallet": "RET_104", "amount": 76, "side": "sell", "ts": "2026-02-20T23:31:08.071430+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_483", "wallet": "RET_078", "amount": 65, "side": "buy", "ts": "2026-02-20T23:31:08.071433+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_484", "wallet": "WHALE_2", "amount": 1671, "side": "buy", "ts": "2026-02-20T23:31:08.071436+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_485", "wallet": "RET_047", "amount": 95, "side": "buy", "ts": "2026-02-20T23:31:08.071439+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_486", "wallet": "RET_099", "amount": 107, "side": "sell", "ts": "2026-02-20T23:31:08.071441+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_487", "wallet": "COORD_11", "amount": 470, "side": "sell", "ts": "2026-02-20T23:31:08.071444+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_488", "wallet": "RET_043", "amount": 130, "side": "sell", "ts": "2026-02-20T23:31:08.071447+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_489", "wallet": "RET_087", "amount": 35, "side": "buy", "ts": "2026-02-20T23:31:08.071450+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_490", "wallet": "RET_004", "amount": 93, "side": "sell", "ts": "2026-02-20T23:31:08.071453+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_491", "wallet": "COORD_07", "amount": 320, "side": "buy", "ts": "2026-02-20T23:31:08.071456+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_492", "wallet": "WHALE_3", "amount": 1078, "side": "buy", "ts": "2026-02-20T23:31:08.071458+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_493", "wallet": "RET_114", "amount": 95, "side": "buy", "ts": "2026-02-20T23:31:08.071461+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_494", "wallet": "WHALE_4", "amount": 1946, "side": "buy", "ts": "2026-02-20T23:31:08.071464+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_495", "wallet": "WHALE_5", "amount": 1092, "side": "buy", "ts": "2026-02-20T23:31:08.071467+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_496", "wallet": "COORD_09", "amount": 238, "side": "buy", "ts": "2026-02-20T23:31:08.071470+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_497", "wallet": "WHALE_3", "amount": 1578, "side": "buy", "ts": "2026-02-20T23:31:08.071473+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_498", "wallet": "RET_111", "amount": 126, "side": "buy", "ts": "2026-02-20T23:31:08.071476+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_499", "wallet": "COORD_05", "amount": 237, "side": "sell", "ts": "2026-02-20T23:31:08.071480+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_500", "wallet": "RET_039", "amount": 55, "side": "buy", "ts": "2026-02-20T23:31:08.071483+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_501", "wallet": "RET_017", "amount": 72, "side": "sell", "ts": "2026-02-20T23:31:08.071486+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_502", "wallet": "RET_095", "amount": 46, "side": "buy", "ts": "2026-02-20T23:31:08.071489+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_503", "wallet": "RET_119", "amount": 107, "side": "buy", "ts": "2026-02-20T23:31:08.071492+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_504", "wallet": "RET_009", "amount": 126, "side": "sell", "ts": "2026-02-20T23:31:08.071495+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_505", "wallet": "COORD_08", "amount": 205, "side": "buy", "ts": "2026-02-20T23:31:08.071498+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_506", "wallet": "RET_026", "amount": 78, "side": "sell", "ts": "2026-02-20T23:31:08.071501+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_507", "wallet": "WHALE_3", "amount": 1447, "side": "buy", "ts": "2026-02-20T23:31:08.071503+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_508", "wallet": "COORD_07", "amount": 430, "side": "buy", "ts": "2026-02-20T23:31:08.071506+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_509", "wallet": "WHALE_3", "amount": 2076, "side": "buy", "ts": "2026-02-20T23:31:08.071509+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_510", "wallet": "RET_031", "amount": 18, "side": "sell", "ts": "2026-02-20T23:31:08.071512+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_511", "wallet": "WHALE_1", "amount": 1148, "side": "buy", "ts": "2026-02-20T23:31:08.071515+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_512", "wallet": "COORD_06", "amount": 381, "side": "buy", "ts": "2026-02-20T23:31:08.071518+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_513", "wallet": "RET_064", "amount": 12, "side": "sell", "ts": "2026-02-20T23:31:08.071521+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_514", "wallet": "WHALE_5", "amount": 1276, "side": "buy", "ts": "2026-02-20T23:31:08.071523+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_515", "wallet": "RET_094", "amount": 139, "side": "sell", "ts": "2026-02-20T23:31:08.071526+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_516", "wallet": "WHALE_2", "amount": 1924, "side": "buy", "ts": "2026-02-20T23:31:08.071530+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_517", "wallet": "WHALE_3", "amount": 1374, "side": "buy", "ts": "2026-02-20T23:31:08.071532+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_518", "wallet": "RET_113", "amount": 70, "side": "buy", "ts": "2026-02-20T23:31:08.071535+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_519", "wallet": "RET_057", "amount": 19, "side": "sell", "ts": "2026-02-20T23:31:08.071538+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_520", "wallet": "RET_119", "amount": 15, "side": "buy", "ts": "2026-02-20T23:31:08.071541+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_521", "wallet": "RET_007", "amount": 37, "side": "buy", "ts": "2026-02-20T23:31:08.071544+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_522", "wallet": "WHALE_3", "amount": 2100, "side": "buy", "ts": "2026-02-20T23:31:08.071547+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_523", "wallet": "RET_025", "amount": 48, "side": "sell", "ts": "2026-02-20T23:31:08.071550+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_524", "wallet": "WHALE_3", "amount": 2078, "side": "buy", "ts": "2026-02-20T23:31:08.071553+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_525", "wallet": "RET_096", "amount": 100, "side": "sell", "ts": "2026-02-20T23:31:08.071556+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_526", "wallet": "RET_069", "amount": 131, "side": "buy", "ts": "2026-02-20T23:31:08.071559+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_527", "wallet": "RET_028", "amount": 79, "side": "sell", "ts": "2026-02-20T23:31:08.071562+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_528", "wallet": "WHALE_2", "amount": 1544, "side": "buy", "ts": "2026-02-20T23:31:08.071565+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_529", "wallet": "WHALE_2", "amount": 1433, "side": "buy", "ts": "2026-02-20T23:31:08.071568+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_530", "wallet": "RET_081", "amount": 52, "side": "buy", "ts": "2026-02-20T23:31:08.071571+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_531", "wallet": "WHALE_1", "amount": 1944, "side": "buy", "ts": "2026-02-20T23:31:08.071620+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_532", "wallet": "RET_016", "amount": 10, "side": "buy", "ts": "2026-02-20T23:31:08.071624+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_533", "wallet": "RET_118", "amount": 54, "side": "buy", "ts": "2026-02-20T23:31:08.071627+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_534", "wallet": "COORD_11", "amount": 670, "side": "buy", "ts": "2026-02-20T23:31:08.071629+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_535", "wallet": "RET_078", "amount": 15, "side": "sell", "ts": "2026-02-20T23:31:08.071632+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_536", "wallet": "RET_055", "amount": 42, "side": "buy", "ts": "2026-02-20T23:31:08.071635+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_537", "wallet": "WHALE_4", "amount": 1492, "side": "buy", "ts": "2026-02-20T23:31:08.071638+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_538", "wallet": "WHALE_4", "amount": 1255, "side": "buy", "ts": "2026-02-20T23:31:08.071641+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_539", "wallet": "RET_111", "amount": 19, "side": "sell", "ts": "2026-02-20T23:31:08.071644+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_540", "wallet": "COORD_06", "amount": 402, "side": "buy", "ts": "2026-02-20T23:31:08.071647+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_541", "wallet": "COORD_00", "amount": 290, "side": "buy", "ts": "2026-02-20T23:31:08.071649+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_542", "wallet": "RET_020", "amount": 124, "side": "buy", "ts": "2026-02-20T23:31:08.071653+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_543", "wallet": "RET_042", "amount": 33, "side": "sell", "ts": "2026-02-20T23:31:08.071656+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_544", "wallet": "RET_001", "amount": 125, "side": "buy", "ts": "2026-02-20T23:31:08.071659+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_545", "wallet": "RET_064", "amount": 73, "side": "sell", "ts": "2026-02-20T23:31:08.071662+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_546", "wallet": "WHALE_2", "amount": 2069, "side": "buy", "ts": "2026-02-20T23:31:08.071664+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_547", "wallet": "COORD_06", "amount": 406, "side": "buy", "ts": "2026-02-20T23:31:08.071698+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_548", "wallet": "WHALE_1", "amount": 1210, "side": "buy", "ts": "2026-02-20T23:31:08.071701+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_549", "wallet": "RET_040", "amount": 55, "side": "sell", "ts": "2026-02-20T23:31:08.071704+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_550", "wallet": "WHALE_5", "amount": 1745, "side": "buy", "ts": "2026-02-20T23:31:08.071707+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_551", "wallet": "RET_035", "amount": 57, "side": "sell", "ts": "2026-02-20T23:31:08.071710+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_552", "wallet": "WHALE_3", "amount": 1166, "side": "buy", "ts": "2026-02-20T23:31:08.071713+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_553", "wallet": "RET_107", "amount": 43, "side": "sell", "ts": "2026-02-20T23:31:08.071716+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_554", "wallet": "COORD_05", "amount": 889, "side": "buy", "ts": "2026-02-20T23:31:08.071719+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_555", "wallet": "RET_114", "amount": 122, "side": "sell", "ts": "2026-02-20T23:31:08.071722+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_556", "wallet": "RET_016", "amount": 126, "side": "buy", "ts": "2026-02-20T23:31:08.071725+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_557", "wallet": "WHALE_4", "amount": 1676, "side": "buy", "ts": "2026-02-20T23:31:08.071727+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_558", "wallet": "RET_107", "amount": 140, "side": "sell", "ts": "2026-02-20T23:31:08.071731+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_559", "wallet": "RET_058", "amount": 56, "side": "buy", "ts": "2026-02-20T23:31:08.071734+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_560", "wallet": "WHALE_3", "amount": 1462, "side": "buy", "ts": "2026-02-20T23:31:08.071736+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_561", "wallet": "RET_119", "amount": 83, "side": "buy", "ts": "2026-02-20T23:31:08.071741+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_562", "wallet": "RET_084", "amount": 51, "side": "buy", "ts": "2026-02-20T23:31:08.071744+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_563", "wallet": "COORD_02", "amount": 324, "side": "buy", "ts": "2026-02-20T23:31:08.071746+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_564", "wallet": "RET_098", "amount": 31, "side": "buy", "ts": "2026-02-20T23:31:08.071750+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_565", "wallet": "WHALE_5", "amount": 1285, "side": "buy", "ts": "2026-02-20T23:31:08.071752+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_566", "wallet": "COORD_08", "amount": 330, "side": "buy", "ts": "2026-02-20T23:31:08.071755+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_567", "wallet": "RET_104", "amount": 136, "side": "buy", "ts": "2026-02-20T23:31:08.071758+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_568", "wallet": "WHALE_2", "amount": 1001, "side": "buy", "ts": "2026-02-20T23:31:08.071761+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_569", "wallet": "RET_057", "amount": 110, "side": "sell", "ts": "2026-02-20T23:31:08.071764+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_570", "wallet": "RET_050", "amount": 80, "side": "sell", "ts": "2026-02-20T23:31:08.071767+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_571", "wallet": "WHALE_2", "amount": 1593, "side": "buy", "ts": "2026-02-20T23:31:08.071770+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_572", "wallet": "RET_106", "amount": 94, "side": "buy", "ts": "2026-02-20T23:31:08.071773+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_573", "wallet": "WHALE_3", "amount": 1850, "side": "buy", "ts": "2026-02-20T23:31:08.071775+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_574", "wallet": "RET_065", "amount": 60, "side": "sell", "ts": "2026-02-20T23:31:08.071778+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_575", "wallet": "RET_095", "amount": 34, "side": "sell", "ts": "2026-02-20T23:31:08.071781+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_576", "wallet": "COORD_08", "amount": 664, "side": "buy", "ts": "2026-02-20T23:31:08.071784+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_577", "wallet": "RET_039", "amount": 75, "side": "sell", "ts": "2026-02-20T23:31:08.071789+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_578", "wallet": "RET_099", "amount": 110, "side": "sell", "ts": "2026-02-20T23:31:08.071792+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_579", "wallet": "WHALE_2", "amount": 2120, "side": "buy", "ts": "2026-02-20T23:31:08.071795+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_580", "wallet": "WHALE_1", "amount": 1145, "side": "buy", "ts": "2026-02-20T23:31:08.071797+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_581", "wallet": "RET_054", "amount": 103, "side": "sell", "ts": "2026-02-20T23:31:08.071800+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_582", "wallet": "WHALE_3", "amount": 1269, "side": "buy", "ts": "2026-02-20T23:31:08.071803+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_583", "wallet": "WHALE_3", "amount": 912, "side": "buy", "ts": "2026-02-20T23:31:08.071806+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_584", "wallet": "RET_031", "amount": 17, "side": "sell", "ts": "2026-02-20T23:31:08.071809+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_585", "wallet": "RET_006", "amount": 45, "side": "sell", "ts": "2026-02-20T23:31:08.071812+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_586", "wallet": "COORD_07", "amount": 227, "side": "buy", "ts": "2026-02-20T23:31:08.071814+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_587", "wallet": "WHALE_2", "amount": 1788, "side": "buy", "ts": "2026-02-20T23:31:08.071817+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_588", "wallet": "RET_070", "amount": 71, "side": "buy", "ts": "2026-02-20T23:31:08.071820+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_589", "wallet": "WHALE_4", "amount": 1771, "side": "buy", "ts": "2026-02-20T23:31:08.071823+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_590", "wallet": "RET_111", "amount": 89, "side": "sell", "ts": "2026-02-20T23:31:08.071826+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_591", "wallet": "WHALE_1", "amount": 1882, "side": "buy", "ts": "2026-02-20T23:31:08.071829+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_592", "wallet": "WHALE_2", "amount": 1249, "side": "buy", "ts": "2026-02-20T23:31:08.071832+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_593", "wallet": "RET_035", "amount": 54, "side": "sell", "ts": "2026-02-20T23:31:08.071835+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_594", "wallet": "RET_045", "amount": 99, "side": "sell", "ts": "2026-02-20T23:31:08.071838+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_595", "wallet": "COORD_07", "amount": 285, "side": "sell", "ts": "2026-02-20T23:31:08.071841+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_596", "wallet": "RET_061", "amount": 17, "side": "sell", "ts": "2026-02-20T23:31:08.071844+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_597", "wallet": "WHALE_2", "amount": 1351, "side": "buy", "ts": "2026-02-20T23:31:08.071847+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_598", "wallet": "RET_110", "amount": 79, "side": "sell", "ts": "2026-02-20T23:31:08.071850+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_599", "wallet": "RET_002", "amount": 87, "side": "sell", "ts": "2026-02-20T23:31:08.071853+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_600", "wallet": "RET_068", "amount": 37, "side": "sell", "ts": "2026-02-20T23:31:08.071856+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_601", "wallet": "RET_114", "amount": 21, "side": "buy", "ts": "2026-02-20T23:31:08.071859+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_602", "wallet": "RET_013", "amount": 78, "side": "buy", "ts": "2026-02-20T23:31:08.071862+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_603", "wallet": "RET_113", "amount": 112, "side": "buy", "ts": "2026-02-20T23:31:08.071865+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_604", "wallet": "RET_108", "amount": 33, "side": "sell", "ts": "2026-02-20T23:31:08.071868+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_605", "wallet": "WHALE_1", "amount": 998, "side": "buy", "ts": "2026-02-20T23:31:08.071871+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_606", "wallet": "RET_053", "amount": 24, "side": "sell", "ts": "2026-02-20T23:31:08.071874+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_607", "wallet": "COORD_08", "amount": 242, "side": "buy", "ts": "2026-02-20T23:31:08.071876+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_608", "wallet": "COORD_02", "amount": 245, "side": "sell", "ts": "2026-02-20T23:31:08.071879+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_609", "wallet": "RET_013", "amount": 62, "side": "sell", "ts": "2026-02-20T23:31:08.071882+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_610", "wallet": "WHALE_1", "amount": 2182, "side": "buy", "ts": "2026-02-20T23:31:08.071885+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_611", "wallet": "RET_010", "amount": 27, "side": "sell", "ts": "2026-02-20T23:31:08.071888+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_612", "wallet": "RET_006", "amount": 51, "side": "sell", "ts": "2026-02-20T23:31:08.071891+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_613", "wallet": "RET_038", "amount": 16, "side": "sell", "ts": "2026-02-20T23:31:08.071894+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_614", "wallet": "WHALE_3", "amount": 1141, "side": "buy", "ts": "2026-02-20T23:31:08.071897+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_615", "wallet": "WHALE_3", "amount": 1537, "side": "buy", "ts": "2026-02-20T23:31:08.071900+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_616", "wallet": "WHALE_1", "amount": 2174, "side": "buy", "ts": "2026-02-20T23:31:08.071902+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_617", "wallet": "RET_070", "amount": 33, "side": "buy", "ts": "2026-02-20T23:31:08.071905+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_618", "wallet": "RET_111", "amount": 121, "side": "buy", "ts": "2026-02-20T23:31:08.071908+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_619", "wallet": "COORD_03", "amount": 554, "side": "buy", "ts": "2026-02-20T23:31:08.071911+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_620", "wallet": "COORD_02", "amount": 262, "side": "sell", "ts": "2026-02-20T23:31:08.071914+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_621", "wallet": "WHALE_2", "amount": 1568, "side": "buy", "ts": "2026-02-20T23:31:08.071916+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_622", "wallet": "RET_018", "amount": 47, "side": "buy", "ts": "2026-02-20T23:31:08.071920+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_623", "wallet": "WHALE_3", "amount": 1795, "side": "buy", "ts": "2026-02-20T23:31:08.071922+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_624", "wallet": "WHALE_5", "amount": 1324, "side": "buy", "ts": "2026-02-20T23:31:08.071925+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_625", "wallet": "COORD_09", "amount": 803, "side": "buy", "ts": "2026-02-20T23:31:08.071928+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_626", "wallet": "RET_006", "amount": 113, "side": "sell", "ts": "2026-02-20T23:31:08.071931+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_627", "wallet": "RET_046", "amount": 110, "side": "sell", "ts": "2026-02-20T23:31:08.071934+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_628", "wallet": "RET_009", "amount": 122, "side": "buy", "ts": "2026-02-20T23:31:08.071936+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_629", "wallet": "COORD_07", "amount": 313, "side": "sell", "ts": "2026-02-20T23:31:08.071939+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_630", "wallet": "COORD_01", "amount": 514, "side": "buy", "ts": "2026-02-20T23:31:08.071942+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_631", "wallet": "WHALE_4", "amount": 1354, "side": "buy", "ts": "2026-02-20T23:31:08.071945+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_632", "wallet": "RET_053", "amount": 30, "side": "sell", "ts": "2026-02-20T23:31:08.071948+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_633", "wallet": "WHALE_2", "amount": 1669, "side": "buy", "ts": "2026-02-20T23:31:08.071951+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_634", "wallet": "WHALE_4", "amount": 1596, "side": "buy", "ts": "2026-02-20T23:31:08.071953+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_635", "wallet": "COORD_10", "amount": 565, "side": "buy", "ts": "2026-02-20T23:31:08.071956+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_636", "wallet": "COORD_11", "amount": 425, "side": "sell", "ts": "2026-02-20T23:31:08.071959+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_637", "wallet": "RET_014", "amount": 44, "side": "buy", "ts": "2026-02-20T23:31:08.071962+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_638", "wallet": "COORD_05", "amount": 361, "side": "buy", "ts": "2026-02-20T23:31:08.071964+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_639", "wallet": "COORD_07", "amount": 346, "side": "buy", "ts": "2026-02-20T23:31:08.071967+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_640", "wallet": "COORD_00", "amount": 699, "side": "buy", "ts": "2026-02-20T23:31:08.071970+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_641", "wallet": "RET_068", "amount": 10, "side": "buy", "ts": "2026-02-20T23:31:08.071973+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_642", "wallet": "WHALE_5", "amount": 905, "side": "buy", "ts": "2026-02-20T23:31:08.071975+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_643", "wallet": "RET_028", "amount": 62, "side": "sell", "ts": "2026-02-20T23:31:08.071978+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_644", "wallet": "COORD_06", "amount": 227, "side": "buy", "ts": "2026-02-20T23:31:08.071981+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_645", "wallet": "RET_056", "amount": 72, "side": "buy", "ts": "2026-02-20T23:31:08.071984+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_646", "wallet": "RET_058", "amount": 117, "side": "buy", "ts": "2026-02-20T23:31:08.071987+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_647", "wallet": "RET_005", "amount": 33, "side": "buy", "ts": "2026-02-20T23:31:08.071990+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_648", "wallet": "WHALE_5", "amount": 2154, "side": "buy", "ts": "2026-02-20T23:31:08.071993+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_649", "wallet": "WHALE_1", "amount": 1507, "side": "buy", "ts": "2026-02-20T23:31:08.071995+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_650", "wallet": "WHALE_2", "amount": 1742, "side": "buy", "ts": "2026-02-20T23:31:08.071998+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_651", "wallet": "WHALE_2", "amount": 966, "side": "buy", "ts": "2026-02-20T23:31:08.072000+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_652", "wallet": "WHALE_5", "amount": 1527, "side": "buy", "ts": "2026-02-20T23:31:08.072003+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_653", "wallet": "RET_102", "amount": 64, "side": "sell", "ts": "2026-02-20T23:31:08.072006+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_654", "wallet": "WHALE_4", "amount": 1390, "side": "buy", "ts": "2026-02-20T23:31:08.072009+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_655", "wallet": "COORD_04", "amount": 763, "side": "buy", "ts": "2026-02-20T23:31:08.072013+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_656", "wallet": "RET_106", "amount": 84, "side": "buy", "ts": "2026-02-20T23:31:08.072017+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_657", "wallet": "COORD_11", "amount": 224, "side": "sell", "ts": "2026-02-20T23:31:08.072019+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_658", "wallet": "RET_065", "amount": 126, "side": "sell", "ts": "2026-02-20T23:31:08.072022+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_659", "wallet": "RET_112", "amount": 111, "side": "sell", "ts": "2026-02-20T23:31:08.072025+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_660", "wallet": "RET_046", "amount": 10, "side": "buy", "ts": "2026-02-20T23:31:08.072028+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_661", "wallet": "RET_101", "amount": 120, "side": "sell", "ts": "2026-02-20T23:31:08.072031+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_662", "wallet": "WHALE_1", "amount": 978, "side": "buy", "ts": "2026-02-20T23:31:08.072034+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_663", "wallet": "RET_063", "amount": 44, "side": "sell", "ts": "2026-02-20T23:31:08.072037+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_664", "wallet": "RET_019", "amount": 25, "side": "buy", "ts": "2026-02-20T23:31:08.072040+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_665", "wallet": "RET_014", "amount": 123, "side": "buy", "ts": "2026-02-20T23:31:08.072043+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_666", "wallet": "WHALE_3", "amount": 2199, "side": "buy", "ts": "2026-02-20T23:31:08.072045+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_667", "wallet": "WHALE_1", "amount": 1946, "side": "buy", "ts": "2026-02-20T23:31:08.072048+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_668", "wallet": "RET_017", "amount": 114, "side": "buy", "ts": "2026-02-20T23:31:08.072051+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_669", "wallet": "COORD_03", "amount": 760, "side": "buy", "ts": "2026-02-20T23:31:08.072054+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_670", "wallet": "RET_048", "amount": 135, "side": "buy", "ts": "2026-02-20T23:31:08.072057+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_671", "wallet": "RET_036", "amount": 83, "side": "buy", "ts": "2026-02-20T23:31:08.072060+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_672", "wallet": "COORD_06", "amount": 274, "side": "buy", "ts": "2026-02-20T23:31:08.072062+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_673", "wallet": "RET_093", "amount": 91, "side": "buy", "ts": "2026-02-20T23:31:08.072065+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_674", "wallet": "RET_030", "amount": 83, "side": "sell", "ts": "2026-02-20T23:31:08.072069+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_675", "wallet": "RET_093", "amount": 132, "side": "sell", "ts": "2026-02-20T23:31:08.072072+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_676", "wallet": "RET_067", "amount": 72, "side": "buy", "ts": "2026-02-20T23:31:08.072075+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_677", "wallet": "RET_068", "amount": 50, "side": "buy", "ts": "2026-02-20T23:31:08.072077+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_678", "wallet": "RET_041", "amount": 131, "side": "buy", "ts": "2026-02-20T23:31:08.072080+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_679", "wallet": "COORD_00", "amount": 533, "side": "buy", "ts": "2026-02-20T23:31:08.072083+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_680", "wallet": "RET_102", "amount": 94, "side": "buy", "ts": "2026-02-20T23:31:08.072086+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_681", "wallet": "RET_114", "amount": 78, "side": "sell", "ts": "2026-02-20T23:31:08.072089+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_682", "wallet": "WHALE_5", "amount": 1512, "side": "buy", "ts": "2026-02-20T23:31:08.072092+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_683", "wallet": "WHALE_3", "amount": 1241, "side": "buy", "ts": "2026-02-20T23:31:08.072094+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_684", "wallet": "COORD_01", "amount": 804, "side": "buy", "ts": "2026-02-20T23:31:08.072098+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_685", "wallet": "RET_062", "amount": 68, "side": "sell", "ts": "2026-02-20T23:31:08.072100+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_686", "wallet": "WHALE_1", "amount": 2144, "side": "buy", "ts": "2026-02-20T23:31:08.072103+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_687", "wallet": "COORD_10", "amount": 869, "side": "buy", "ts": "2026-02-20T23:31:08.072106+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_688", "wallet": "WHALE_3", "amount": 1680, "side": "buy", "ts": "2026-02-20T23:31:08.072110+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_689", "wallet": "COORD_07", "amount": 311, "side": "buy", "ts": "2026-02-20T23:31:08.072113+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_690", "wallet": "RET_001", "amount": 119, "side": "buy", "ts": "2026-02-20T23:31:08.072116+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_691", "wallet": "WHALE_4", "amount": 950, "side": "buy", "ts": "2026-02-20T23:31:08.072119+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_692", "wallet": "RET_025", "amount": 48, "side": "buy", "ts": "2026-02-20T23:31:08.072122+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_693", "wallet": "RET_053", "amount": 32, "side": "sell", "ts": "2026-02-20T23:31:08.072125+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_694", "wallet": "COORD_10", "amount": 489, "side": "buy", "ts": "2026-02-20T23:31:08.072128+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_695", "wallet": "COORD_01", "amount": 475, "side": "buy", "ts": "2026-02-20T23:31:08.072131+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_696", "wallet": "RET_014", "amount": 66, "side": "sell", "ts": "2026-02-20T23:31:08.072134+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_697", "wallet": "RET_087", "amount": 54, "side": "buy", "ts": "2026-02-20T23:31:08.072137+00:00", "scenario": "pump_and_dump"}
+{"id": "TTEST_698", "wallet": "COORD_06", "amount": 458, "side": "buy", "ts": "2026-02-20T23:31:08.072140+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_699", "wallet": "COORD_03", "amount": 241, "side": "sell", "ts": "2026-02-20T23:31:08.072142+00:00", "scenario": "pump_and_dump", "coordinated": true}
+{"id": "TTEST_700", "wallet": "RET_007", "amount": 46, "side": "buy", "ts": "2026-02-20T23:31:08.072145+00:00", "scenario": "pump_and_dump"}
